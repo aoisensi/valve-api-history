@@ -19,6 +19,8 @@ jobs:
 
       - name: Fetch API Data
         run: python ./scripts/fetch.py
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       
       - name: Commit and Push
         run: |
