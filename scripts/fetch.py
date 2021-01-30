@@ -20,6 +20,8 @@ paths = [
 key = os.getenv('STEAM_API_KEY')
 headers = {'User-Agent': 'https://github.com/aoisensi/valve-api-history'}
 
+os.makedirs('./histories', exist_ok=True)
+
 for path in paths:
     print(path)
     try:
