@@ -10,7 +10,6 @@ paths = [
     'IEconItems_440/GetSchemaItems/v1',
     'IEconItems_440/GetSchemaOverview/v1',
     'IEconItems_440/GetSchemaURL/v1',
-    'IEconItems_440/GetStoreMetaData/v1',
     'IEconItems_620/GetSchema/v1',
     'IEconItems_730/GetSchema/v2',
     'IEconItems_730/GetStoreMetaData/v1',
