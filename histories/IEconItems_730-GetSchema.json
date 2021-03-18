@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.1a412c8ab2d45d98e2760282dcdc6ca1fe6d5099.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.6d4af51b4ed1badb98c19fff2f819fb9a616a4f6.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -33671,6 +33671,37 @@
         ]
       },
       {
+        "name": "crate_sticker_pack_poorly_drawn",
+        "defindex": 4746,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_poorly_drawn_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_poorly_drawn_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule.bfdd2d01ea418ca65c61e12e8010845ba83572a8.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule_large.a4ec666eb23aaee2d9818505b4c08e95d054a881.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 314
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -42513,6 +42544,161 @@
         "min_ilevel": 1,
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/amontobin_01.2cf4f8b98a111fc847576bb6a8feb3364a2cfa1b.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - poorly_drawn_sticker_capsule",
+        "defindex": 20174,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_poorly_drawn_sticker_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - neckdeep_02",
+        "defindex": 20175,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_neckdeep_02",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/neckdeep_02",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/neckdeep_02.d00e38b24d5ca285fd34411afc34b874ab80cd1b.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - neckdeep_02_stattrak",
+        "defindex": 20176,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_neckdeep_02_stattrak",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/neckdeep_02",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/neckdeep_02.d00e38b24d5ca285fd34411afc34b874ab80cd1b.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - scarlxrd_02",
+        "defindex": 20177,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_scarlxrd_02",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/scarlxrd_02",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_02.9d630d5c49841c359e6def0bc2e4e24b62b2f233.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - scarlxrd_02_stattrak",
+        "defindex": 20178,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_scarlxrd_02_stattrak",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/scarlxrd_02",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_02.9d630d5c49841c359e6def0bc2e4e24b62b2f233.png",
         "image_url_large": "",
         "capabilities": {
           "decodable": true
