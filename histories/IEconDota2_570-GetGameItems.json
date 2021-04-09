@@ -1979,7 +1979,7 @@
       },
       {
         "id": 633,
-        "name": "item_recipe_helm_of_the_dominator_2",
+        "name": "item_recipe_helm_of_the_overlord",
         "cost": 1600,
         "secret_shop": 0,
         "side_shop": 0,
@@ -1987,7 +1987,7 @@
       },
       {
         "id": 635,
-        "name": "item_helm_of_the_dominator_2",
+        "name": "item_helm_of_the_overlord",
         "cost": 6000,
         "secret_shop": 0,
         "side_shop": 0,
