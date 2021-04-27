@@ -1960,12 +1960,6 @@
                 "type": "uint32",
                 "optional": false,
                 "description": "AppID of game"
-              },
-              {
-                "name": "partner",
-                "type": "string",
-                "optional": true,
-                "description": "Partner type"
               }
             ]
           },
