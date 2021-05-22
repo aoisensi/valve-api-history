@@ -2,6 +2,7 @@ import os
 import urllib.request
 import time
 import json
+import sys
 
 paths = [
     'IEconDota2_570/GetHeroes/v1',
@@ -35,5 +36,6 @@ for path in paths:
             print(name)
     except Exception as e:
         print('Error:', e)
+        sys.exit(1)
     finally:
         time.sleep(5)
