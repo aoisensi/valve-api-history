@@ -117,6 +117,10 @@
       {
         "origin": 24,
         "name": "Level Up Reward"
+      },
+      {
+        "origin": 25,
+        "name": "Ad"
       }
     ],
     "items": [
