@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9b19055ed1d3d26913b34eb108f16e293f86d7ba.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.8a9f717d9d4757f1f1d14e56651a49a2289b44c9.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -9754,6 +9754,90 @@
         "attach_to_rootbone": true,
         "attachment": "unusual",
         "name": "#Attrib_Particle176"
+      },
+      {
+        "system": "unusual_breaker_green_parent",
+        "id": 177,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle177"
+      },
+      {
+        "system": "unusual_breaker_orange_parent",
+        "id": 178,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle178"
+      },
+      {
+        "system": "unusual_breaker_purple_parent",
+        "id": 179,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle179"
+      },
+      {
+        "system": "unusual_star_parent",
+        "id": 180,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle180"
+      },
+      {
+        "system": "unusual_magic_stingers_orange_parent",
+        "id": 181,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle181"
+      },
+      {
+        "system": "unusual_magic_stingers_pink_parent",
+        "id": 182,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle182"
+      },
+      {
+        "system": "unusual_magic_stingers_teamcolor_red",
+        "id": 183,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle183"
+      },
+      {
+        "system": "unusual_magic_stingers_teamcolor_blue",
+        "id": 184,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle184"
+      },
+      {
+        "system": "unusual_flowers_parent",
+        "id": 185,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle185"
+      },
+      {
+        "system": "unusual_bloomhead_orangepurple_parent",
+        "id": 186,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle186"
+      },
+      {
+        "system": "unusual_bloomhead_pinkgreen_parent",
+        "id": 187,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle187"
+      },
+      {
+        "system": "unusual_magicalorb_parent",
+        "id": 188,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle188"
       },
       {
         "system": "weapon_unusual_hot",
