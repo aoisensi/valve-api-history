@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.8910d7da4d4109693e95a44b078c63a6856e2134.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.63ec8d744779e10368dc6b81152361ce83bd05ac.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -33862,6 +33862,68 @@
         "attributes": []
       },
       {
+        "name": "crate_musickit_tacticians_capsule",
+        "defindex": 4754,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_musickit_tacticians_capsule",
+        "item_description": "#CSGO_crate_musickit_tacticians_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_tacticians_capsule.7fac9d3dfefe0affbd4ba6f9db43daed02860990.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 316
+          }
+        ]
+      },
+      {
+        "name": "crate_musickit_tacticians_stattrak_capsule",
+        "defindex": 4755,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_musickit_tacticians_stattrak_capsule",
+        "item_description": "#CSGO_crate_musickit_tacticians_stattrak_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule.694310b1d018effc8bac1af684f8c63ec4993939.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 317
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -42859,6 +42921,68 @@
         "min_ilevel": 1,
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/scarlxrd_02.9d630d5c49841c359e6def0bc2e4e24b62b2f233.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - tacticians_musickit_capsule",
+        "defindex": 20179,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_tacticians_musickit_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - tacticians_stattrak_musickit_capsule",
+        "defindex": 20180,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_tacticians_stattrak_musickit_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
         "image_url_large": "",
         "capabilities": {
           "decodable": true
