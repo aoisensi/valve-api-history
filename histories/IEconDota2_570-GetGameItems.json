@@ -1836,7 +1836,7 @@
       {
         "id": 248,
         "name": "item_recipe_silver_edge",
-        "cost": 350,
+        "cost": 500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1844,7 +1844,7 @@
       {
         "id": 249,
         "name": "item_silver_edge",
-        "cost": 5300,
+        "cost": 5450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1980,7 +1980,7 @@
       {
         "id": 633,
         "name": "item_recipe_helm_of_the_overlord",
-        "cost": 1000,
+        "cost": 1250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1988,7 +1988,7 @@
       {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6050,
+        "cost": 6300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
