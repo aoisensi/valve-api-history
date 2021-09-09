@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.63ec8d744779e10368dc6b81152361ce83bd05ac.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.421cd335300600cdbfc7f3ba2506879913ac74b1.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -33924,6 +33924,37 @@
         ]
       },
       {
+        "name": "crate_sticker_pack_community2021_capsule",
+        "defindex": 4782,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_community2021_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_community2021_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2021_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_community2021_capsule.15790ce6786a0fa2ae7ea98b90bed663a7a508d7.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_community2021_capsule_large.fde32bf5e7ba90d1a0be1bce2235f89509b5fd20.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 319
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -42976,6 +43007,37 @@
         "item_class": "supply_crate",
         "item_type_name": "#CSGO_Type_WeaponCase",
         "item_name": "#coupon_tacticians_stattrak_musickit_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - community2021_sticker_capsule",
+        "defindex": 20181,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_community2021_sticker_capsule",
         "item_description": "#coupon_desc",
         "proper_name": false,
         "item_quality": 4,
