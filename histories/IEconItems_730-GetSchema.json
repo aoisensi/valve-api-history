@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.421cd335300600cdbfc7f3ba2506879913ac74b1.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.3a00a5c39eb1abd3bddf5d865a745068712b79a3.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -6511,6 +6511,96 @@
         "attributes": []
       },
       {
+        "name": "Map Token Basalt",
+        "defindex": 1074,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenBasalt",
+        "item_description": "#CSGO_Collectible_MapTokenBasalt_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_basalt",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_basalt.a9cbbbfac5e5e20433a8eaaa951f74cfbe86dcb2.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_basalt_large.c85c40856f1ead8e487bb690626a62151586c264.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Insertion2",
+        "defindex": 1075,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenInsertion2",
+        "item_description": "#CSGO_Collectible_MapTokenInsertion2_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_insertion2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_insertion2.7b09a8feab70814a8449aa95f5c0a7d9fb071a3c.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_insertion2_large.d2b1d0c5e9bfcc92e94e1d1f120bf5040f7d2cac.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Ravine",
+        "defindex": 1076,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenRavine",
+        "item_description": "#CSGO_Collectible_MapTokenRavine_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_ravine",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_ravine.0c94bed96a7f03a8d13df0394a696028faccb51b.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_ravine_large.c172e3a09404d613c963a148396ea2305c1656ef.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Extraction",
+        "defindex": 1077,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenExtraction",
+        "item_description": "#CSGO_Collectible_MapTokenExtraction_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_extraction",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_extraction.8681f00d944a9accbd3ff1eae5233f5918d751bc.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_extraction_large.9ea5c88644f211f4dd1b44e071b97218c6dcf33d.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token County",
+        "defindex": 1078,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenCounty",
+        "item_description": "#CSGO_Collectible_MapTokenCounty_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_county",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_county.7352db6a23b166f69dcbeeafe67573f7a4bb02e0.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_county_large.9e873b3eaf1f514aca1668f50d63c72c5d631510.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
         "name": "Name Tag",
         "defindex": 1200,
         "item_class": "tool",
@@ -9503,6 +9593,31 @@
         "tool": {
           "type": "decoder_ring",
           "restriction": "crate_community_28",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "community_29 Key",
+        "defindex": 1390,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_29",
+        "item_description": "#CSGO_crate_key_community_29_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_29",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_29.e99ba5ac51552cb18672968e388957c48d884e66.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "restriction": "crate_community_29",
           "usage_capabilities": {
             "decodable": true,
             "usable_out_of_game": true
@@ -30105,8 +30220,8 @@
         "image_inventory": "econ/status_icons/xpgrant",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/xpgrant.dbe96799c627f19bcacc7ec55bdbb15eef11bfbb.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/xpgrant_large.777a0a5d29755f7f0b80ddc62c682a86fa7d067a.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/xpgrant.fe553d2590945a85d9077142d5c5036ea4193ebc.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/xpgrant_large.708c4022d4bfe2b5b9a6fd8418422b6d1a69dc18.png",
         "craft_class": "tool",
         "craft_material_type": "tool",
         "capabilities": {
@@ -30242,6 +30357,25 @@
             "usable_out_of_game": true
           }
         }
+      },
+      {
+        "name": "customplayer_tm_professional_varf5",
+        "defindex": 4613,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_professional_varf5",
+        "item_description": "#CSGO_CustomPlayer_tm_professional_varf5_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_professional_varf5",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_professional_varf5.c9006bae9b53250aa882a379045e93c9014e32f1.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
       },
       {
         "name": "crate_patch_pack02",
@@ -33862,6 +33996,101 @@
         "attributes": []
       },
       {
+        "name": "customplayer_ctm_gendarmerie_varianta",
+        "defindex": 4749,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_gendarmerie_varianta",
+        "item_description": "#CSGO_CustomPlayer_ctm_gendarmerie_varianta_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_varianta",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_gendarmerie_varianta.f0c5636c9994367d4efca9a121e18412406f727a.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_gendarmerie_variantb",
+        "defindex": 4750,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantb",
+        "item_description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantb_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantb",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_gendarmerie_variantb.4ce3a656228179e85d16897b9041ba7f2a8a1526.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_gendarmerie_variantc",
+        "defindex": 4751,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantc",
+        "item_description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantc_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantc",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_gendarmerie_variantc.6b84c6a02e5404eb8ade8943370a9a9551314747.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_gendarmerie_variantd",
+        "defindex": 4752,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_gendarmerie_variantd",
+        "item_description": "#CSGO_CustomPlayer_ctm_gendarmerie_variantd_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantd",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_gendarmerie_variantd.fcb84aa2b937ea3d4cefb15229fd17193704f10a.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_gendarmerie_variante",
+        "defindex": 4753,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_gendarmerie_variante",
+        "item_description": "#CSGO_CustomPlayer_ctm_gendarmerie_variante_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variante",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_gendarmerie_variante.bb4d1165ad5dc2f9e01f3987089cf04ba75c3692.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
         "name": "crate_musickit_tacticians_capsule",
         "defindex": 4754,
         "item_class": "supply_crate",
@@ -33924,6 +34153,585 @@
         ]
       },
       {
+        "name": "customplayer_ctm_swat_variantk",
+        "defindex": 4756,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_swat_variantk",
+        "item_description": "#CSGO_CustomPlayer_ctm_swat_variantk_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_swat_variantk",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_swat_variantk.cb9306570d06169fffd3cfe54803bc678abc5b64.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_diver_varianta",
+        "defindex": 4757,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_diver_varianta",
+        "item_description": "#CSGO_CustomPlayer_ctm_diver_varianta_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_diver_varianta",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_diver_varianta.6937f9b1e5c71d650eeede9b93ee0d7d4462dae5.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "CommunitySeasonEleven2021",
+        "defindex": 4758,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_Ticket_CommunitySeasonEleven2021",
+        "item_description": "#CSGO_Ticket_CommunitySeasonEleven2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_pass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_pass.2f9518117457d2500452254f1971dcc00771e1df.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_pass_large.0859c77850bb9b1524661455338c0c948db7406f.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "season_pass",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": []
+      },
+      {
+        "name": "CommunitySeasonEleven2021 Coin 1",
+        "defindex": 4759,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin1_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_bronze",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_bronze.fe2f64ba52e7be6793d1436122d542012a37b792.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_bronze_large.756dfe794ff517efbc4e91956c4875247ca5b30e.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "minutes played",
+            "class": "minutes_played",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "CommunitySeasonEleven2021 Coin 2",
+        "defindex": 4760,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin2_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_silver",
+        "min_ilevel": 2,
+        "max_ilevel": 2,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_silver.3912a69904e0325b3236d9ed9093ecbddf06294e.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_silver_large.46709592ccec382480b28fe5565d28e22cae68ba.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "minutes played",
+            "class": "minutes_played",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "CommunitySeasonEleven2021 Coin 3",
+        "defindex": 4761,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin3_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_gold",
+        "min_ilevel": 3,
+        "max_ilevel": 3,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_gold.df29d247c2becb48aedf6b276288f10b5bffb7e6.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_gold_large.8dff9bcd488cc62457e5beb2daedf4e4d89dc868.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "minutes played",
+            "class": "minutes_played",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "CommunitySeasonEleven2021 Coin 4",
+        "defindex": 4762,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_Coin4_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_platinum",
+        "min_ilevel": 3,
+        "max_ilevel": 3,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum.1b0191661f922706f633f09672e41a747c55601d.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum_large.b9fd38c21de38fd0550a54d1ec2ebc57e6aedf52.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "minutes played",
+            "class": "minutes_played",
+            "value": 1
+          }
+        ]
+      },
+      {
+        "name": "CommunitySeasonEleven2021_PlusStars1",
+        "defindex": 4763,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars1_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_plusstars1",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars1.12ea5a8465016766738046623cc00078ca0de879.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars1_large.721d6a1b559240e5db934d7fd8cbe7adba370bb4.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "seasontiers",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": []
+      },
+      {
+        "name": "CommunitySeasonEleven2021_PlusStars10",
+        "defindex": 4764,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars10_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_plusstars10",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars10.6266607a7ce23ed0d3e741a657685693cd3635cf.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars10_large.c28849501791a7c9f73d211870e212868e5e2559.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "seasontiers",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": []
+      },
+      {
+        "name": "CommunitySeasonEleven2021_PlusStars100",
+        "defindex": 4765,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100",
+        "item_description": "#CSGO_Collectible_CommunitySeasonEleven2021_PlusStars100_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/operation_11_plusstars100",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars100.3c9a2e84c231ac8ed58d3e3989fa423c4fcf83b8.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_plusstars100_large.ad3aaffed8ab2fbe1c222ff4a8120bd8d54e57f9.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "seasontiers",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": []
+      },
+      {
+        "name": "character_operator_dossier_op11_rare",
+        "defindex": 4766,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_character_operator_dossier_op09_rare",
+        "item_description": "#CSGO_character_operator_dossier_op09_rare_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/dossier",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/dossier.802f81dd63aa92864d83b45bde7ac3905800c1e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "character_operator_dossier_op11_mythical",
+        "defindex": 4767,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_character_operator_dossier_op09_mythical",
+        "item_description": "#CSGO_character_operator_dossier_op09_mythical_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/dossier",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/dossier.802f81dd63aa92864d83b45bde7ac3905800c1e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "character_operator_dossier_op11_legendary",
+        "defindex": 4768,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_character_operator_dossier_op09_legendary",
+        "item_description": "#CSGO_character_operator_dossier_op09_legendary_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/dossier",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/dossier.802f81dd63aa92864d83b45bde7ac3905800c1e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "character_operator_dossier_op11_ancient1",
+        "defindex": 4769,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_character_operator_dossier_op11_ancient1",
+        "item_description": "#CSGO_character_operator_dossier_op09_ancient_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/dossier",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/dossier.802f81dd63aa92864d83b45bde7ac3905800c1e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "character_operator_dossier_op11_ancient2",
+        "defindex": 4770,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_character_operator_dossier_op11_ancient2",
+        "item_description": "#CSGO_character_operator_dossier_op09_ancient_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/dossier",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/dossier.802f81dd63aa92864d83b45bde7ac3905800c1e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "customplayer_ctm_diver_variantb",
+        "defindex": 4771,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_diver_variantb",
+        "item_description": "#CSGO_CustomPlayer_ctm_diver_variantb_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_diver_variantb",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_diver_variantb.8991b3d936d3b2577e842d07038cc86381046b7f.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_diver_variantc",
+        "defindex": 4772,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_diver_variantc",
+        "item_description": "#CSGO_CustomPlayer_ctm_diver_variantc_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_diver_variantc",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_diver_variantc.35246779c8cefbea23246097d4ab9eb6b658ce8a.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_varianta",
+        "defindex": 4773,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_varianta",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_varianta_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_varianta",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_varianta.1222c1924b44977ab22826516acbbd19f4e579fd.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantb",
+        "defindex": 4774,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantb",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantb_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantb.4246cb30b54f0984104f71ea255c1f135d9cf36e.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantc",
+        "defindex": 4775,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantc",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantc_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantc",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantc.8696d403ba22df1c4d107336470991a90e1ce0e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantd",
+        "defindex": 4776,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantd",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantd_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantd",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantd.89b081ae639fa4bec73f876b1ea6c1d35c9aa2d3.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variante",
+        "defindex": 4777,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variante",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variante_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variante",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variante.8881288abce42ecdb8fa08e971e520ebdec6053d.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantf",
+        "defindex": 4778,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantf",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantf_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantf.e60dcd68d7ef7afb9dae801fe893a936d4d95718.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "crate_sticker_pack_riptide_surfshop",
+        "defindex": 4779,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_riptide_surfshop",
+        "item_description": "#CSGO_crate_sticker_pack_riptide_surfshop_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule.1688f85e2f6dd1d4cb623b5c4aaabbbdd21f9f16.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_large.f1fa803f62b761850de84a27e2145648ea07c091.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 318
+          }
+        ]
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantb2",
+        "defindex": 4780,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantb2",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantb2_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantb2.2186f0cbfa9b5583b702694b350b2fe947963fdd.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_tm_jungle_raider_variantf2",
+        "defindex": 4781,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_jungle_raider_variantf2",
+        "item_description": "#CSGO_CustomPlayer_tm_jungle_raider_variantf2_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_jungle_raider_variantf2.ed369570f6a2c9d80426adc23af6b6cafa8d4489.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
         "name": "crate_sticker_pack_community2021_capsule",
         "defindex": 4782,
         "item_class": "supply_crate",
@@ -33951,6 +34759,286 @@
             "name": "set supply crate series",
             "class": "supply_crate_series",
             "value": 319
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_op_riptide_capsule",
+        "defindex": 4783,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_op_riptide_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_op_riptide_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_op_riptide_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule.3ef1a58f026f023dd980e9e3619e86b5b018e96b.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_op_riptide_capsule_large.67fd73ae623ea83bc7f75991fa69b2dee8feca49.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 322
+          }
+        ]
+      },
+      {
+        "name": "selfopeningitem_set_train_2021_rare_standalone",
+        "defindex": 4785,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_train_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_train_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_train_2021_mythical_standalone",
+        "defindex": 4786,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_train_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_train_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_train_2021_legendary_standalone",
+        "defindex": 4787,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_train_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_train_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_train_2021_ancient_standalone",
+        "defindex": 4788,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_train_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_train_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_train_2021.a000b6d4ae1978aeced8ec31aa8ef5a0014dae29.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_community_29",
+        "defindex": 4790,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_community_29",
+        "item_description": "#CSGO_crate_community_29_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_community_29",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_29.9b830067732b4de110c01fb24cd067a3061b43a8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true,
+          "can_delete": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "restriction": "crate_community_29",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 321
+          }
+        ]
+      },
+      {
+        "name": "selfopeningitem_crate_sticker_pack_riptide_surfshop",
+        "defindex": 4791,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_riptide_surfshop",
+        "item_description": "#CSGO_crate_sticker_pack_riptide_surfshop_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule.1688f85e2f6dd1d4cb623b5c4aaabbbdd21f9f16.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule_large.f1fa803f62b761850de84a27e2145648ea07c091.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_vertigo_2021",
+        "defindex": 4792,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_vertigo_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_vertigo_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_vertigo_2021.611413bf4d18e0c888054707dff98c612049f097.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_dust_2_2021",
+        "defindex": 4793,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_dust_2_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_dust_2_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_dust_2_2021.318944ebb9e3dae51cd87d38b5d3584a2fa9425f.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "selfopeningitem_set_mirage_2021",
+        "defindex": 4794,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_set_mirage_2021",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/set_icons/set_mirage_2021",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/set_icons/set_mirage_2021.f1c9b5169b9fb9d6e0933baba0514dd34d6c9e19.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_patch_pack03",
+        "defindex": 4795,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_patch_pack03",
+        "item_description": "#CSGO_crate_patch_pack03_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_patch_pack03",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack03.e3c82f4119dc4319f24f7c646874e0d75b66c098.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 323
           }
         ]
       },
@@ -35203,6 +36291,25 @@
         "attributes": []
       },
       {
+        "name": "customplayer_tm_leet_variantj",
+        "defindex": 5109,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_tm_leet_variantj",
+        "item_description": "#CSGO_CustomPlayer_tm_leet_variantj_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_tm_leet_variantj",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_tm_leet_variantj.8952c1a2462ed583148d403b6229b0c9eeebf4cf.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
         "name": "customplayer_tm_phoenix",
         "defindex": 5200,
         "item_class": "wearable_item",
@@ -35600,6 +36707,25 @@
         "attributes": []
       },
       {
+        "name": "customplayer_ctm_st6_variantn",
+        "defindex": 5405,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_st6_variantn",
+        "item_description": "#CSGO_CustomPlayer_ctm_st6_variantn_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_st6_variantn",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_st6_variantn.209ad1edde622e01847c917ba501cdac69280002.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
         "name": "customplayer_tm_balkan_variantf",
         "defindex": 5500,
         "item_class": "wearable_item",
@@ -35741,6 +36867,25 @@
         "min_ilevel": 1,
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_sas_variantf.6a6c9f284f805d44062313762287025c5c91e9aa.png",
+        "image_url_large": "",
+        "capabilities": {
+          "can_patch": true
+        },
+        "attributes": []
+      },
+      {
+        "name": "customplayer_ctm_sas_variantg",
+        "defindex": 5602,
+        "item_class": "wearable_item",
+        "item_type_name": "#Type_CustomPlayer",
+        "item_name": "#CSGO_CustomPlayer_ctm_sas_variantg",
+        "item_description": "#CSGO_CustomPlayer_ctm_sas_variantg_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/characters/customplayer_ctm_sas_variantg",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/characters/customplayer_ctm_sas_variantg.8752f81c015194373e87c596a45b8d26c814f2ef.png",
         "image_url_large": "",
         "capabilities": {
           "can_patch": true
@@ -43521,6 +44666,91 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
         "craft_class": "collectable",
         "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_basalt' starting 2021-09-21",
+        "defindex": 30028,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_basalt' starting 2021-09-21",
+        "item_description": "Daily Payment for Map 'de_basalt' starting 2021-09-21",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'cs_insertion2' starting 2021-09-21",
+        "defindex": 30029,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'cs_insertion2' starting 2021-09-21",
+        "item_description": "Daily Payment for Map 'cs_insertion2' starting 2021-09-21",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_ravine' starting 2021-09-21",
+        "defindex": 30030,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_ravine' starting 2021-09-21",
+        "item_description": "Daily Payment for Map 'de_ravine' starting 2021-09-21",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_extraction' starting 2021-09-21",
+        "defindex": 30031,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_extraction' starting 2021-09-21",
+        "item_description": "Daily Payment for Map 'de_extraction' starting 2021-09-21",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'dz_county' starting 2021-09-21",
+        "defindex": 30032,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'dz_county' starting 2021-09-21",
+        "item_description": "Daily Payment for Map 'dz_county' starting 2021-09-21",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
       }
     ],
     "attributes": [
@@ -45150,6 +46380,14 @@
         "effect_type": "neutral",
         "hidden": true,
         "stored_as_integer": false
+      },
+      {
+        "name": "headshot multiplier",
+        "defindex": 276,
+        "attribute_class": "headshot_multiplier",
+        "effect_type": "neutral",
+        "hidden": true,
+        "stored_as_integer": false
       }
     ],
     "item_sets": [
@@ -45809,6 +47047,29 @@
         ]
       },
       {
+        "item_set": "set_community_29",
+        "name": "#CSGO_set_community_29",
+        "items": [
+          "weapon_aug",
+          "weapon_elite",
+          "weapon_g3sg1",
+          "weapon_mp7",
+          "weapon_bizon",
+          "weapon_usp_silencer",
+          "weapon_xm1014",
+          "weapon_mag7",
+          "weapon_famas",
+          "weapon_fiveseven",
+          "weapon_mp9",
+          "weapon_m4a1",
+          "weapon_mac10",
+          "weapon_glock",
+          "weapon_ssg08",
+          "weapon_deagle",
+          "weapon_ak47"
+        ]
+      },
+      {
         "item_set": "set_community_3",
         "name": "#CSGO_set_community_3",
         "items": [
@@ -45994,6 +47255,31 @@
           "weapon_sg556",
           "weapon_hkp2000",
           "weapon_revolver"
+        ]
+      },
+      {
+        "item_set": "set_dust_2_2021",
+        "name": "#CSGO_set_dust_2_2021",
+        "items": [
+          "weapon_revolver",
+          "weapon_p90",
+          "weapon_sg556",
+          "weapon_mp7",
+          "weapon_sawedoff",
+          "weapon_aug",
+          "weapon_mp9",
+          "weapon_fiveseven",
+          "weapon_m249",
+          "weapon_p250",
+          "weapon_nova",
+          "weapon_g3sg1",
+          "weapon_galilar",
+          "weapon_usp_silencer",
+          "weapon_m4a1",
+          "weapon_mac10",
+          "weapon_ump45",
+          "weapon_ssg08",
+          "weapon_ak47"
         ]
       },
       {
@@ -46234,6 +47520,31 @@
         ]
       },
       {
+        "item_set": "set_mirage_2021",
+        "name": "#CSGO_set_mirage_2021",
+        "items": [
+          "weapon_p250",
+          "weapon_bizon",
+          "weapon_mag7",
+          "weapon_mac10",
+          "weapon_ssg08",
+          "weapon_elite",
+          "weapon_famas",
+          "weapon_cz75a",
+          "weapon_p90",
+          "weapon_usp_silencer",
+          "weapon_mp9",
+          "weapon_m249",
+          "weapon_sg556",
+          "weapon_xm1014",
+          "weapon_glock",
+          "weapon_aug",
+          "weapon_mp5sd",
+          "weapon_deagle",
+          "weapon_awp"
+        ]
+      },
+      {
         "item_set": "set_norse",
         "name": "#CSGO_set_norse",
         "items": [
@@ -46410,6 +47721,33 @@
         ]
       },
       {
+        "item_set": "set_op11_characters",
+        "name": "#CSGO_set_op11_characters",
+        "items": [
+          "customplayer_ctm_gendarmerie_variantc",
+          "customplayer_ctm_diver_varianta",
+          "customplayer_ctm_diver_variantb",
+          "customplayer_tm_jungle_raider_variantb",
+          "customplayer_tm_jungle_raider_variantb2",
+          "customplayer_tm_jungle_raider_variante",
+          "customplayer_ctm_gendarmerie_variantb",
+          "customplayer_ctm_diver_variantc",
+          "customplayer_tm_professional_varf5",
+          "customplayer_tm_jungle_raider_varianta",
+          "customplayer_tm_jungle_raider_variantc",
+          "customplayer_ctm_gendarmerie_varianta",
+          "customplayer_ctm_gendarmerie_variante",
+          "customplayer_ctm_swat_variantk",
+          "customplayer_tm_jungle_raider_variantd",
+          "customplayer_tm_jungle_raider_variantf2",
+          "customplayer_ctm_gendarmerie_variantd",
+          "customplayer_ctm_sas_variantg",
+          "customplayer_ctm_st6_variantn",
+          "customplayer_tm_leet_variantj",
+          "customplayer_tm_jungle_raider_variantf"
+        ]
+      },
+      {
         "item_set": "set_op9_characters",
         "name": "#CSGO_set_op9_characters",
         "items": [
@@ -46525,6 +47863,33 @@
         ]
       },
       {
+        "item_set": "set_train_2021",
+        "name": "#CSGO_set_train_2021",
+        "items": [
+          "weapon_deagle",
+          "weapon_m4a1_silencer",
+          "weapon_ssg08",
+          "weapon_aug",
+          "weapon_ump45",
+          "weapon_tec9",
+          "weapon_revolver",
+          "weapon_cz75a",
+          "weapon_awp",
+          "weapon_hkp2000",
+          "weapon_mp5sd",
+          "weapon_nova",
+          "weapon_famas",
+          "weapon_mac10",
+          "weapon_usp_silencer",
+          "weapon_glock",
+          "weapon_glock",
+          "weapon_glock",
+          "weapon_glock",
+          "weapon_glock",
+          "weapon_m4a1"
+        ]
+      },
+      {
         "item_set": "set_vertigo",
         "name": "#CSGO_set_vertigo",
         "items": [
@@ -46534,6 +47899,31 @@
           "weapon_p90",
           "weapon_ak47",
           "weapon_elite"
+        ]
+      },
+      {
+        "item_set": "set_vertigo_2021",
+        "name": "#CSGO_set_vertigo_2021",
+        "items": [
+          "weapon_mac10",
+          "weapon_famas",
+          "weapon_xm1014",
+          "weapon_cz75a",
+          "weapon_elite",
+          "weapon_glock",
+          "weapon_ump45",
+          "weapon_ssg08",
+          "weapon_bizon",
+          "weapon_ak47",
+          "weapon_p90",
+          "weapon_nova",
+          "weapon_negev",
+          "weapon_galilar",
+          "weapon_mag7",
+          "weapon_p250",
+          "weapon_fiveseven",
+          "weapon_sg556",
+          "weapon_m4a1_silencer"
         ]
       },
       {
