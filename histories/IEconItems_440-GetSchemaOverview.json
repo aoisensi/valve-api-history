@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.6cf880d77ed789d33d0b511a779470315c4f0df2.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.97ee5b99134fffa25357b427c9a094e43e1afbc5.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -9840,6 +9840,118 @@
         "name": "#Attrib_Particle188"
       },
       {
+        "system": "unusual_demonhorns_green_parent",
+        "id": 189,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle189"
+      },
+      {
+        "system": "unusual_demonhorns_orange_parent",
+        "id": 190,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle190"
+      },
+      {
+        "system": "unusual_demonhorns_purple_parent",
+        "id": 191,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle191"
+      },
+      {
+        "system": "unusual_souls_green_parent",
+        "id": 192,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle192"
+      },
+      {
+        "system": "unusual_souls_teamcolor_red",
+        "id": 193,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle193"
+      },
+      {
+        "system": "unusual_souls_teamcolor_blue",
+        "id": 194,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle194"
+      },
+      {
+        "system": "unusual_phantomcrown_green_parent",
+        "id": 195,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle195"
+      },
+      {
+        "system": "unusual_phantomcrown_purple_parent",
+        "id": 196,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle196"
+      },
+      {
+        "system": "unusual_phantomcrown_yellow_parent",
+        "id": 197,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle197"
+      },
+      {
+        "system": "unusual_lurking_eyes_parent_g",
+        "id": 198,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle198"
+      },
+      {
+        "system": "unusual_lurking_eyes_parent_o",
+        "id": 199,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle199"
+      },
+      {
+        "system": "unusual_lurking_eyes_parent_p",
+        "id": 200,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle200"
+      },
+      {
+        "system": "unusual_pumpkin_moon_parent",
+        "id": 201,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle201"
+      },
+      {
+        "system": "unusual_wacky_spooky_ghost_parent_g",
+        "id": 202,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle202"
+      },
+      {
+        "system": "unusual_wacky_spooky_ghost_parent_o",
+        "id": 203,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle203"
+      },
+      {
+        "system": "unusual_wacky_spooky_ghost_parent_p",
+        "id": 204,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle204"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -10250,6 +10362,90 @@
         "id": 3056,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3056"
+      },
+      {
+        "system": "utaunt_chain_green_parent",
+        "id": 3059,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3059"
+      },
+      {
+        "system": "utaunt_chain_purple_parent",
+        "id": 3060,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3060"
+      },
+      {
+        "system": "utaunt_tarotcard_teamcolor_red",
+        "id": 3061,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3061"
+      },
+      {
+        "system": "utaunt_tarotcard_teamcolor_blue",
+        "id": 3062,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3062"
+      },
+      {
+        "system": "utaunt_tarotcard_orange_parent",
+        "id": 3063,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3063"
+      },
+      {
+        "system": "utaunt_tarotcard_purple_parent",
+        "id": 3064,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3064"
+      },
+      {
+        "system": "utaunt_elebound_green_parent",
+        "id": 3065,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3065"
+      },
+      {
+        "system": "utaunt_elebound_purple_parent",
+        "id": 3066,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3066"
+      },
+      {
+        "system": "utaunt_elebound_yellow_parent",
+        "id": 3067,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3067"
+      },
+      {
+        "system": "utaunt_wispy_parent_g",
+        "id": 3068,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3068"
+      },
+      {
+        "system": "utaunt_wispy_parent_p",
+        "id": 3069,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3069"
+      },
+      {
+        "system": "utaunt_auroraglow_green_parent",
+        "id": 3070,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3070"
+      },
+      {
+        "system": "utaunt_auroraglow_orange_parent",
+        "id": 3071,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3071"
+      },
+      {
+        "system": "utaunt_auroraglow_purple_parent",
+        "id": 3072,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3072"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
