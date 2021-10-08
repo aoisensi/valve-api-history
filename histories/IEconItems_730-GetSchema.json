@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.8157259d993cfbf065bbb3fdf70601900103d3bc.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.0c26199b600c042809e668505e749debc1de72c0.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -44190,6 +44190,68 @@
         "min_ilevel": 1,
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - bbnos_01",
+        "defindex": 20183,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_bbnos_01",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/bbnos_01",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/bbnos_01.41bea5be0ec1c11d2f9c58cc24d175ab62870b74.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - bbnos_01_stattrak",
+        "defindex": 20184,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_bbnos_01_stattrak",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/bbnos_01",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/bbnos_01.41bea5be0ec1c11d2f9c58cc24d175ab62870b74.png",
         "image_url_large": "",
         "capabilities": {
           "decodable": true
