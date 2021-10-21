@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.0c26199b600c042809e668505e749debc1de72c0.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.b7f48dc18304999dbccd462183d42d86ec03fe65.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -35039,6 +35039,843 @@
             "name": "set supply crate series",
             "class": "supply_crate_series",
             "value": 323
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_stockh2021",
+        "defindex": 4796,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_stockh2021",
+        "item_description": "#CSGO_TournamentPass_stockh2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_pass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass.25767e921bb2df976a5466b261b546b3d350432f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass_large.c75a3588ea64f775407bdebb9bf4aa2638fbf6ec.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_stockh2021",
+        "defindex": 4797,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_stockh2021",
+        "item_description": "#CSGO_TournamentJournal_stockh2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_bronze",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_bronze.0c7e0bb5c396607cb106399f1006eb2670186ce0.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_bronze_large.6fa94b8d0104298d1c78535e63d8a0a475221c4e.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 12
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5078
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_stockh2021_silver",
+        "defindex": 4798,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_stockh2021_Silver",
+        "item_description": "#CSGO_TournamentJournal_stockh2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_silver",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_silver.08ff75a3c6b5f247b1f374dfd923af51d4754795.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_silver_large.c5f4e2d28301eeecef652d415a38661eee755ef2.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 12
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5078
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_stockh2021_gold",
+        "defindex": 4799,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_stockh2021_Gold",
+        "item_description": "#CSGO_TournamentJournal_stockh2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_gold",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_gold.1f0f7a20e996c4775ddc8a96e307aa6f1822dac8.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_gold_large.1cac9b6e7c7203ba5c1ec559983992b6762d350c.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 12
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5078
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_stockh2021_crystal",
+        "defindex": 4800,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_stockh2021_Crystal",
+        "item_description": "#CSGO_TournamentJournal_stockh2021_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_crystal",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_crystal.ab79f1728610c20d848761e24d7d44e3957d3622.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_crystal_large.3a262047483b99a2922537f57df161d14d6b6ef5.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 12
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5078
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_stockh2021_pack",
+        "defindex": 4801,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_stockh2021_pack",
+        "item_description": "#CSGO_TournamentPass_stockh2021_pack_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_pack",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass_pack.b2d758e4b7d2aabcc5d78034d6ae935628e6629a.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass_pack_large.2485979c8bff16544b45356a5b24aa970f24c593.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_stockh2021_charge",
+        "defindex": 4802,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_stockh2021_charge",
+        "item_description": "#CSGO_TournamentPass_stockh2021_charge_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2021_pass_charge",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass_charge.d6ea82480149ddbea247c4617e5175b684177eed.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2021_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_stockh2021_legends",
+        "defindex": 4803,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_stockh2021_legends",
+        "item_description": "#CSGO_crate_sticker_pack_stockh2021_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_legends.020ad7335d0d6e886517115133c18a5fcdec0d02.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_legends_large.f18e643b97e592ab3cb4f38f53131d98c9418dfd.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 324
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_stockh2021_challengers",
+        "defindex": 4804,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_stockh2021_challengers",
+        "item_description": "#CSGO_crate_sticker_pack_stockh2021_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers.d076258edaf3c5b46ded34ef41a302c382e5aa8a.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_challengers_large.b12835aa0dd4cf53197cd3af944919ade5bd8218.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 325
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_stockh2021_contenders",
+        "defindex": 4805,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_stockh2021_contenders",
+        "item_description": "#CSGO_crate_sticker_pack_stockh2021_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders.1c3d256ea9e18a1408a10e6dd02075a7a12343c7.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_contenders_large.827bcefd4b0dd2955c28651cd24d53f60c222313.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 326
+          }
+        ]
+      },
+      {
+        "name": "crate_patch_pack_stockh2021_legends",
+        "defindex": 4806,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_patch_pack_stockh2021_legends",
+        "item_description": "#CSGO_crate_patch_pack_stockh2021_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_legends.022c83f6246a76e184bd79a089d008ec2ddea126.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_legends_large.f573914b26b8389621e5231db95d256486ce4f7d.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 327
+          }
+        ]
+      },
+      {
+        "name": "crate_patch_pack_stockh2021_challengers",
+        "defindex": 4807,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_patch_pack_stockh2021_challengers",
+        "item_description": "#CSGO_crate_patch_pack_stockh2021_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_challengers.4ddb354da12bf5b1f2b31e090f6d0174fcba3036.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_challengers_large.843097a991147aa3522fd6b7b06e3533ab5e9698.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 328
+          }
+        ]
+      },
+      {
+        "name": "crate_patch_pack_stockh2021_contenders",
+        "defindex": 4808,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_patch_pack_stockh2021_contenders",
+        "item_description": "#CSGO_crate_patch_pack_stockh2021_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_contenders.d162d511719648b68313bb19c8eca4c2cacb9292.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack_stockh2021_contenders_large.09df1245c8bdb1f14b5de2bddf799cf34274b4f8.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 329
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_inferno",
+        "defindex": 4809,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_inferno",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_inferno",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_inferno.db7770ae6dbb5369e8301eae1941fbaf342f9413.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 330
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_mirage",
+        "defindex": 4810,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_mirage",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_mirage",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_mirage.bc6d1bdc42baa20b92469f4e88c5d19f1db2f3a4.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 331
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_dust2",
+        "defindex": 4811,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_dust2",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_dust2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_dust2.f63b1e6c0b61cbb091decd12b651c44b90952428.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 332
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_overpass",
+        "defindex": 4812,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_overpass",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_overpass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_overpass.a1416d178c57d616ece474e36881ac3952a1d865.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 333
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_ancient",
+        "defindex": 4813,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_ancient",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_ancient",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_ancient.29085e1a3b545970b4f323999169d711a73673d2.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 334
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_nuke",
+        "defindex": 4814,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_nuke",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_nuke",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_nuke.1fe24dddabe5b67b42dc78fe9a4b05bbca5129ce.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 335
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_stockh2021_promo_de_vertigo",
+        "defindex": 4815,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_stockh2021_promo_de_vertigo",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_stockh2021_promo_de_vertigo",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_stockh2021_promo_de_vertigo.7080d66022a7ae14944279c0e0d3e1670bd94d9c.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 336
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_stockh2021_group_champions",
+        "defindex": 4816,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_stockh2021_group_champions",
+        "item_description": "#CSGO_crate_signature_pack_stockh2021_group_champions_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions.bcb01aa195f58d05d55343cfa0623cd523a20e99.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions_large.cb054f7b43aa5c482169e1a8d4e2c5a4e0cceed4.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 337
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_stockh2021_group_finalists",
+        "defindex": 4817,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_stockh2021_group_finalists",
+        "item_description": "#CSGO_crate_signature_pack_stockh2021_group_finalists_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_stockh2021_group_finalists.cb95f5d391373157cee2361a74716b1115ed20aa.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 338
           }
         ]
       },
