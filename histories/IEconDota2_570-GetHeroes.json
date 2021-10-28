@@ -484,9 +484,13 @@
       {
         "name": "npc_dota_hero_dawnbreaker",
         "id": 135
+      },
+      {
+        "name": "npc_dota_hero_marci",
+        "id": 136
       }
     ],
     "status": 200,
-    "count": 121
+    "count": 122
   }
 }

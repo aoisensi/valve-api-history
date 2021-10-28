@@ -92,7 +92,7 @@
       {
         "id": 6,
         "name": "item_helm_of_iron_will",
-        "cost": 950,
+        "cost": 975,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -868,7 +868,7 @@
       {
         "id": 80,
         "name": "item_recipe_vladmir",
-        "cost": 500,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -876,7 +876,7 @@
       {
         "id": 81,
         "name": "item_vladmir",
-        "cost": 2700,
+        "cost": 2600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1108,7 +1108,7 @@
       {
         "id": 262,
         "name": "item_recipe_hurricane_pike",
-        "cost": 450,
+        "cost": 350,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1116,7 +1116,7 @@
       {
         "id": 263,
         "name": "item_hurricane_pike",
-        "cost": 4550,
+        "cost": 4450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1340,7 +1340,7 @@
       {
         "id": 113,
         "name": "item_recipe_heart",
-        "cost": 1300,
+        "cost": 1200,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1348,7 +1348,7 @@
       {
         "id": 114,
         "name": "item_heart",
-        "cost": 5100,
+        "cost": 5000,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1468,7 +1468,7 @@
       {
         "id": 225,
         "name": "item_nullifier",
-        "cost": 4700,
+        "cost": 4725,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1564,7 +1564,7 @@
       {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 875,
+        "cost": 800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1572,7 +1572,7 @@
       {
         "id": 242,
         "name": "item_crimson_guard",
-        "cost": 3650,
+        "cost": 3600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1724,7 +1724,7 @@
       {
         "id": 142,
         "name": "item_recipe_basher",
-        "cost": 900,
+        "cost": 825,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1732,7 +1732,7 @@
       {
         "id": 143,
         "name": "item_basher",
-        "cost": 2950,
+        "cost": 2875,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1812,7 +1812,7 @@
       {
         "id": 151,
         "name": "item_armlet",
-        "cost": 2475,
+        "cost": 2500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1972,7 +1972,7 @@
       {
         "id": 164,
         "name": "item_helm_of_the_dominator",
-        "cost": 2375,
+        "cost": 2400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1980,7 +1980,7 @@
       {
         "id": 633,
         "name": "item_recipe_helm_of_the_overlord",
-        "cost": 1225,
+        "cost": 1325,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1988,7 +1988,7 @@
       {
         "id": 635,
         "name": "item_helm_of_the_overlord",
-        "cost": 6300,
+        "cost": 6325,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2188,7 +2188,7 @@
       {
         "id": 599,
         "name": "item_recipe_falcon_blade",
-        "cost": 225,
+        "cost": 250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -2196,7 +2196,7 @@
       {
         "id": 596,
         "name": "item_falcon_blade",
-        "cost": 1100,
+        "cost": 1125,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2300,7 +2300,7 @@
       {
         "id": 230,
         "name": "item_recipe_guardian_greaves",
-        "cost": 1600,
+        "cost": 1500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -2308,7 +2308,7 @@
       {
         "id": 231,
         "name": "item_guardian_greaves",
-        "cost": 5200,
+        "cost": 5100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2356,7 +2356,7 @@
       {
         "id": 208,
         "name": "item_abyssal_blade",
-        "cost": 6325,
+        "cost": 6250,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
