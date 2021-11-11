@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.ae06932de9c83ffd9bbe3ddbb4bf81e66285823c.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.df4332b42d890a89972dd474d49b0bb04265eb56.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -4564,6 +4564,102 @@
             "name": "tournament event id",
             "class": "tournament_event_id",
             "value": 16
+          }
+        ]
+      },
+      {
+        "name": "PGL Stockholm 2021 CS:GO Champion",
+        "defindex": 979,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Stockh2021_Champion",
+        "item_description": "#CSGO_CollectibleCoin_Stockh2021_Champion_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors.22c41059d3f3732ccc503cff103040e020f05e92.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "PGL Stockholm 2021 CS:GO Finalist",
+        "defindex": 980,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Stockh2021_Finalist",
+        "item_description": "#CSGO_CollectibleCoin_Stockh2021_Finalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "PGL Stockholm 2021 CS:GO Semifinalist",
+        "defindex": 981,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist",
+        "item_description": "#CSGO_CollectibleCoin_Stockh2021_Semifinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
+          }
+        ]
+      },
+      {
+        "name": "PGL Stockholm 2021 CS:GO Quarterfinalist",
+        "defindex": 982,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist",
+        "item_description": "#CSGO_CollectibleCoin_Stockh2021_Quarterfinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 18
           }
         ]
       },
