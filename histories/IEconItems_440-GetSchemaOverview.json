@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d4c8ec06c4bcfb7be63e967af77c55801e6dc5a6.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.e86961a5ce58082568c0e9c3c10f61cb8590c68b.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -11751,6 +11751,116 @@
             "name": "KillEater_ContractPointsEarnedRank3"
           }
         ]
+      },
+      {
+        "name": "KillEater_BackstabsAbsorbed",
+        "levels": [
+          {
+            "level": 0,
+            "required_score": 1,
+            "name": "KillEater_BackstabsAbsorbed0"
+          },
+          {
+            "level": 1,
+            "required_score": 3,
+            "name": "KillEater_BackstabsAbsorbed1"
+          },
+          {
+            "level": 2,
+            "required_score": 5,
+            "name": "KillEater_BackstabsAbsorbed2"
+          },
+          {
+            "level": 3,
+            "required_score": 7,
+            "name": "KillEater_BackstabsAbsorbed3"
+          },
+          {
+            "level": 4,
+            "required_score": 10,
+            "name": "KillEater_BackstabsAbsorbed4"
+          },
+          {
+            "level": 5,
+            "required_score": 14,
+            "name": "KillEater_BackstabsAbsorbed5"
+          },
+          {
+            "level": 6,
+            "required_score": 18,
+            "name": "KillEater_BackstabsAbsorbed6"
+          },
+          {
+            "level": 7,
+            "required_score": 23,
+            "name": "KillEater_BackstabsAbsorbed7"
+          },
+          {
+            "level": 8,
+            "required_score": 28,
+            "name": "KillEater_BackstabsAbsorbed8"
+          },
+          {
+            "level": 9,
+            "required_score": 35,
+            "name": "KillEater_BackstabsAbsorbed9"
+          },
+          {
+            "level": 10,
+            "required_score": 50,
+            "name": "KillEater_BackstabsAbsorbed10"
+          },
+          {
+            "level": 11,
+            "required_score": 75,
+            "name": "KillEater_BackstabsAbsorbed11"
+          },
+          {
+            "level": 12,
+            "required_score": 99,
+            "name": "KillEater_BackstabsAbsorbed12"
+          },
+          {
+            "level": 13,
+            "required_score": 100,
+            "name": "KillEater_BackstabsAbsorbed13"
+          },
+          {
+            "level": 14,
+            "required_score": 150,
+            "name": "KillEater_BackstabsAbsorbed14"
+          },
+          {
+            "level": 15,
+            "required_score": 250,
+            "name": "KillEater_BackstabsAbsorbed15"
+          },
+          {
+            "level": 16,
+            "required_score": 500,
+            "name": "KillEater_BackstabsAbsorbed16"
+          },
+          {
+            "level": 17,
+            "required_score": 750,
+            "name": "KillEater_BackstabsAbsorbed17"
+          },
+          {
+            "level": 18,
+            "required_score": 784,
+            "name": "KillEater_BackstabsAbsorbed18"
+          },
+          {
+            "level": 19,
+            "required_score": 850,
+            "name": "KillEater_BackstabsAbsorbed19"
+          },
+          {
+            "level": 20,
+            "required_score": 1000,
+            "name": "KillEater_BackstabsAbsorbed20"
+          }
+        ]
       }
     ],
     "kill_eater_score_types": [
@@ -11782,7 +11892,7 @@
       {
         "type": 5,
         "type_name": "KillEaterEventType_BackstabsAbsorbed",
-        "level_data": "KillEaterRank"
+        "level_data": "KillEater_BackstabsAbsorbed"
       },
       {
         "type": 6,
