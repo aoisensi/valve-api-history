@@ -45858,6 +45858,438 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
         "craft_class": "collectable",
         "craft_material_type": "tool"
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2626590694",
+        "defindex": 30033,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2633007094",
+        "defindex": 30034,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2595008565",
+        "defindex": 30035,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2607226021",
+        "defindex": 30036,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2632373434",
+        "defindex": 30037,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2628140608",
+        "defindex": 30038,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2620534516",
+        "defindex": 30039,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2589383228",
+        "defindex": 30040,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2632828963",
+        "defindex": 30041,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2631297146",
+        "defindex": 30042,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2632540132",
+        "defindex": 30043,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2632890381",
+        "defindex": 30044,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2632971897",
+        "defindex": 30045,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2628126193",
+        "defindex": 30046,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2633243684",
+        "defindex": 30047,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2587239450",
+        "defindex": 30048,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner - 2565442170",
+        "defindex": 30049,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "crate_key_community_30 - Item Contest Winner",
+        "defindex": 30050,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30_contestwinner",
+        "item_description": "#CSGO_crate_key_community_30_contestwinner_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
       }
     ],
     "attributes": [
