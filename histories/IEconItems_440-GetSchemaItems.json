@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.b0193944dc58848f9bf491b84fbca099c2638632.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.1cd4afc40ba634eecd1b42b486d15cdfe01d9ea1.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -1165,7 +1165,7 @@
             "value": 3
           },
           {
-            "name": "health drain",
+            "name": "health drain medic",
             "class": "add_health_regen",
             "value": -2
           }

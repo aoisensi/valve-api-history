@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.b0193944dc58848f9bf491b84fbca099c2638632.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.1cd4afc40ba634eecd1b42b486d15cdfe01d9ea1.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -7080,6 +7080,16 @@
         "stored_as_integer": false
       },
       {
+        "name": "health drain medic",
+        "defindex": 881,
+        "attribute_class": "add_health_regen",
+        "description_string": "#Attrib_HealthDrainMedic",
+        "description_format": "value_is_additive",
+        "effect_type": "negative",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
         "name": "CARD: damage bonus",
         "defindex": 1000,
         "attribute_class": "mult_dmg",
@@ -9952,6 +9962,139 @@
         "name": "#Attrib_Particle204"
       },
       {
+        "system": "unusual_smissmas_tree_parent",
+        "id": 205,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle205"
+      },
+      {
+        "system": "unusual_tree3_yellow_parent",
+        "id": 206,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle206"
+      },
+      {
+        "system": "unusual_tree3_teamcolor_red",
+        "id": 207,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle207"
+      },
+      {
+        "system": "unusual_tree3_teamcolor_blue",
+        "id": 208,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle208"
+      },
+      {
+        "system": "unusual_sparkletree_gold_parent",
+        "id": 209,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle209"
+      },
+      {
+        "system": "unusual_sparkletree_silver_parent",
+        "id": 210,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle210"
+      },
+      {
+        "system": "unusual_sparkletree_RGB_parent",
+        "id": 211,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle211"
+      },
+      {
+        "system": "unusual_fairylights_green_parent",
+        "id": 212,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle212"
+      },
+      {
+        "system": "unusual_fairylights_purple_parent",
+        "id": 213,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle213"
+      },
+      {
+        "system": "unusual_spire_star_parent",
+        "id": 214,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle214"
+      },
+      {
+        "system": "unusual_spire_snowball_parent",
+        "id": 215,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle215"
+      },
+      {
+        "system": "unusual_spire_firework_teamcolor_red",
+        "id": 216,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle216"
+      },
+      {
+        "system": "unusual_spire_firework_teamcolor_blue",
+        "id": 217,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle217"
+      },
+      {
+        "system": "unusual_snowflake_parent",
+        "id": 218,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle218"
+      },
+      {
+        "system": "unusual_antlers_gold_parent",
+        "id": 219,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle219"
+      },
+      {
+        "system": "unusual_antlers_purple_parent",
+        "id": 220,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle220"
+      },
+      {
+        "system": "unusual_antlers_teamcolor_red",
+        "id": 221,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle221"
+      },
+      {
+        "system": "unusual_antlers_teamcolor_blue",
+        "id": 222,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle222"
+      },
+      {
+        "system": "unusual_festive_lights_lights1_parent",
+        "id": 223,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle223"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -10446,6 +10589,96 @@
         "id": 3072,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3072"
+      },
+      {
+        "system": "utaunt_snowswirl_purple_parent",
+        "id": 3073,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3073"
+      },
+      {
+        "system": "utaunt_snowswirl_yellow_parent",
+        "id": 3074,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3074"
+      },
+      {
+        "system": "utaunt_snowswirl_teamcolor_red",
+        "id": 3075,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3075"
+      },
+      {
+        "system": "utaunt_snowswirl_teamcolor_blue",
+        "id": 3076,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3076"
+      },
+      {
+        "system": "utaunt_treespiral_green_parent",
+        "id": 3077,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3077"
+      },
+      {
+        "system": "utaunt_treespiral_purple_parent",
+        "id": 3078,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3078"
+      },
+      {
+        "system": "utaunt_treespiral_teamcolor_red",
+        "id": 3079,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3079"
+      },
+      {
+        "system": "utaunt_treespiral_teamcolor_blue",
+        "id": 3080,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3080"
+      },
+      {
+        "system": "utaunt_gifts_teamcolor_red",
+        "id": 3081,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3081"
+      },
+      {
+        "system": "utaunt_gifts_teamcolor_blue",
+        "id": 3082,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3082"
+      },
+      {
+        "system": "utaunt_glitter_parent_gold",
+        "id": 3083,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3083"
+      },
+      {
+        "system": "utaunt_glitter_parent_silver",
+        "id": 3084,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3084"
+      },
+      {
+        "system": "utaunt_glitter_teamcolor_red",
+        "id": 3085,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3085"
+      },
+      {
+        "system": "utaunt_glitter_teamcolor_blue",
+        "id": 3086,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3086"
+      },
+      {
+        "system": "utaunt_ice_parent",
+        "id": 3087,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3087"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
