@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.2995b46f3be1ef1a8c05429d6fe9139e43f5dbc1.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.067a6fe4a1c7f377185e2588a4a47d680e86c816.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -9714,6 +9714,31 @@
         "tool": {
           "type": "decoder_ring",
           "restriction": "crate_community_29",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "community_30 Key",
+        "defindex": 1391,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_30",
+        "item_description": "#CSGO_crate_key_community_30_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "restriction": "crate_community_30",
           "usage_capabilities": {
             "decodable": true,
             "usable_out_of_game": true
@@ -34396,8 +34421,8 @@
         "image_inventory": "econ/status_icons/operation_11_platinum",
         "min_ilevel": 3,
         "max_ilevel": 3,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum.1b0191661f922706f633f09672e41a747c55601d.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum_large.b9fd38c21de38fd0550a54d1ec2ebc57e6aedf52.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum.1862df4bfa89d559fc89d6c5f974ae1a987ceb64.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_11_platinum_large.bf2cee2dcfab4b2df45bb0fc222e628c7c3e8612.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
         "attributes": [
@@ -35991,6 +36016,39 @@
             "name": "set supply crate series",
             "class": "supply_crate_series",
             "value": 338
+          }
+        ]
+      },
+      {
+        "name": "crate_community_30",
+        "defindex": 4818,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_community_30",
+        "item_description": "#CSGO_crate_community_30_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_community_30",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_30.c471a3f74a254c80754f7deec19adaf0df266e23.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true,
+          "can_delete": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "restriction": "crate_community_30",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 339
           }
         ]
       },
@@ -45979,7 +46037,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46003,7 +46061,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46027,7 +46085,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46051,7 +46109,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46075,7 +46133,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46099,7 +46157,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46123,7 +46181,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46147,7 +46205,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46171,7 +46229,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46195,7 +46253,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46219,7 +46277,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46243,7 +46301,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46267,7 +46325,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46291,7 +46349,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46315,7 +46373,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46339,7 +46397,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46363,7 +46421,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -46387,7 +46445,7 @@
         "image_inventory": "econ/tools/crate_key_community_30",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.1f403d733ca705277d9e9fc5918ea69bf9bc2fc0.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_30.7e43a14a5d6c6d2678de7fdc1d91b4bb599d977d.png",
         "image_url_large": "",
         "craft_class": "tool",
         "craft_material_type": "tool",
@@ -48740,6 +48798,29 @@
           "weapon_usp_silencer",
           "weapon_ak47",
           "weapon_m4a1"
+        ]
+      },
+      {
+        "item_set": "set_community_30",
+        "name": "#CSGO_set_community_30",
+        "items": [
+          "weapon_fiveseven",
+          "weapon_mac10",
+          "weapon_mag7",
+          "weapon_mp5sd",
+          "weapon_hkp2000",
+          "weapon_scar20",
+          "weapon_sawedoff",
+          "weapon_bizon",
+          "weapon_g3sg1",
+          "weapon_m4a1_silencer",
+          "weapon_xm1014",
+          "weapon_usp_silencer",
+          "weapon_elite",
+          "weapon_famas",
+          "weapon_mp7",
+          "weapon_ak47",
+          "weapon_mp9"
         ]
       },
       {
