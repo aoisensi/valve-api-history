@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.067a6fe4a1c7f377185e2588a4a47d680e86c816.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.05b1194ed391f7624c95903d5d1e95efbb85bbbb.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -34915,6 +34915,37 @@
         ]
       },
       {
+        "name": "crate_sticker_pack_spring2022_capsule",
+        "defindex": 4784,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_spring2022_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_spring2022_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_spring2022_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_spring2022_capsule.0a0c220fb99efb7cf0b725903fe5bd6b22d6547f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_spring2022_capsule_large.89e1f482d34382a36df7a8079225b5fd9efb78c0.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 340
+          }
+        ]
+      },
+      {
         "name": "selfopeningitem_set_train_2021_rare_standalone",
         "defindex": 4785,
         "item_class": "supply_crate",
@@ -45463,6 +45494,37 @@
         "min_ilevel": 1,
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/theverkkars_02.329034c68612e8f00f0f18e20d7a84f7d2b68627.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - spring2022_sticker_capsule",
+        "defindex": 20187,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_spring2022_sticker_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
         "image_url_large": "",
         "capabilities": {
           "decodable": true
