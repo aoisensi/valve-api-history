@@ -488,9 +488,13 @@
       {
         "name": "npc_dota_hero_marci",
         "id": 136
+      },
+      {
+        "name": "npc_dota_hero_primal_beast",
+        "id": 137
       }
     ],
     "status": 200,
-    "count": 122
+    "count": 123
   }
 }
