@@ -370,22 +370,6 @@
         "recipe": 0
       },
       {
-        "id": 928,
-        "name": "item_recipe_eagle_eye",
-        "cost": 0,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 1
-      },
-      {
-        "id": 929,
-        "name": "item_eagle_eye",
-        "cost": 3700,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 0
-      },
-      {
         "id": 31,
         "name": "item_cloak",
         "cost": 500,
@@ -1708,7 +1692,7 @@
       {
         "id": 136,
         "name": "item_recipe_radiance",
-        "cost": 1350,
+        "cost": 0,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1716,7 +1700,7 @@
       {
         "id": 137,
         "name": "item_radiance",
-        "cost": 5100,
+        "cost": 5050,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2122,22 +2106,6 @@
         "recipe": 0
       },
       {
-        "id": 965,
-        "name": "item_recipe_diffusal_blade_2",
-        "cost": 200,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 1
-      },
-      {
-        "id": 964,
-        "name": "item_diffusal_blade_2",
-        "cost": 5500,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 0
-      },
-      {
         "id": 175,
         "name": "item_recipe_ethereal_blade",
         "cost": 1100,
@@ -2229,38 +2197,6 @@
         "id": 569,
         "name": "item_orb_of_corrosion",
         "cost": 925,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 0
-      },
-      {
-        "id": 859,
-        "name": "item_recipe_voidwalker_scythe",
-        "cost": 0,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 1
-      },
-      {
-        "id": 904,
-        "name": "item_voidwalker_scythe",
-        "cost": 3900,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 0
-      },
-      {
-        "id": 833,
-        "name": "item_recipe_tenderizer",
-        "cost": 425,
-        "secret_shop": 0,
-        "side_shop": 0,
-        "recipe": 1
-      },
-      {
-        "id": 906,
-        "name": "item_tenderizer",
-        "cost": 6100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
