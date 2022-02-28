@@ -1396,6 +1396,30 @@
         ]
       },
       {
+        "name": "IEconItems_1269260",
+        "methods": [
+          {
+            "name": "GetEquippedPlayerItems",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": [
+              {
+                "name": "steamid",
+                "type": "uint64",
+                "optional": false,
+                "description": "The Steam ID to fetch items for"
+              },
+              {
+                "name": "class_id",
+                "type": "uint32",
+                "optional": false,
+                "description": "Return items equipped for this class id"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "IEconItems_205790",
         "methods": [
           {
@@ -1452,7 +1476,7 @@
         ]
       },
       {
-        "name": "IEconItems_238460",
+        "name": "IEconItems_221540",
         "methods": [
           {
             "name": "GetPlayerItems",
@@ -1608,6 +1632,30 @@
         ]
       },
       {
+        "name": "IEconItems_583950",
+        "methods": [
+          {
+            "name": "GetEquippedPlayerItems",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": [
+              {
+                "name": "steamid",
+                "type": "uint64",
+                "optional": false,
+                "description": "The Steam ID to fetch items for"
+              },
+              {
+                "name": "class_id",
+                "type": "uint32",
+                "optional": false,
+                "description": "Return items equipped for this class id"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "IEconItems_620",
         "methods": [
           {
@@ -1706,6 +1754,23 @@
         ]
       },
       {
+        "name": "IGCVersion_1269260",
+        "methods": [
+          {
+            "name": "GetClientVersion",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": []
+          },
+          {
+            "name": "GetServerVersion",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": []
+          }
+        ]
+      },
+      {
         "name": "IGCVersion_205790",
         "methods": [
           {
@@ -1741,6 +1806,23 @@
       },
       {
         "name": "IGCVersion_570",
+        "methods": [
+          {
+            "name": "GetClientVersion",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": []
+          },
+          {
+            "name": "GetServerVersion",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": []
+          }
+        ]
+      },
+      {
+        "name": "IGCVersion_583950",
         "methods": [
           {
             "name": "GetClientVersion",
