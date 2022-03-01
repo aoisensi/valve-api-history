@@ -1012,7 +1012,7 @@
       {
         "id": 97,
         "name": "item_recipe_orchid",
-        "cost": 0,
+        "cost": 300,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1020,7 +1020,7 @@
       {
         "id": 98,
         "name": "item_orchid",
-        "cost": 3175,
+        "cost": 3475,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -1036,7 +1036,7 @@
       {
         "id": 250,
         "name": "item_bloodthorn",
-        "cost": 6500,
+        "cost": 6800,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
