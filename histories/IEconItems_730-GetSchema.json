@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.63371d7de2c1c43a338d864d1955462bfcde4901.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.6f7cc17a38408a0071fd6a8dfff92824e64803f4.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -4660,6 +4660,102 @@
             "name": "tournament event id",
             "class": "tournament_event_id",
             "value": 18
+          }
+        ]
+      },
+      {
+        "name": "PGL Antwerp 2022 CS:GO Champion",
+        "defindex": 983,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Champion",
+        "item_description": "#CSGO_CollectibleCoin_Antwerp2022_Champion_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors.22c41059d3f3732ccc503cff103040e020f05e92.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "PGL Antwerp 2022 CS:GO Finalist",
+        "defindex": 984,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Finalist",
+        "item_description": "#CSGO_CollectibleCoin_Antwerp2022_Finalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "PGL Antwerp 2022 CS:GO Semifinalist",
+        "defindex": 985,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist",
+        "item_description": "#CSGO_CollectibleCoin_Antwerp2022_Semifinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "PGL Antwerp 2022 CS:GO Quarterfinalist",
+        "defindex": 986,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist",
+        "item_description": "#CSGO_CollectibleCoin_Antwerp2022_Quarterfinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
           }
         ]
       },
@@ -36298,6 +36394,807 @@
         "craft_class": "collectable",
         "craft_material_type": "tool",
         "attributes": []
+      },
+      {
+        "name": "tournament_pass_antwerp2022",
+        "defindex": 4825,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_antwerp2022",
+        "item_description": "#CSGO_TournamentPass_antwerp2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_pass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass.9657f475496fbf853d15fc294d163beaf5ec4369.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_large.1a83bb154dad72832132e99658db0e816cd09cdb.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_antwerp2022",
+        "defindex": 4826,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_antwerp2022",
+        "item_description": "#CSGO_TournamentJournal_antwerp2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_bronze",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze.5ae4d2715c1c268f525cdc96e069ddb09bc78bd1.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze_large.d6b0ef1ed0794418b1927604ba5b2e9596bc21ee.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 13
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5395
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_antwerp2022_silver",
+        "defindex": 4827,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_antwerp2022_Silver",
+        "item_description": "#CSGO_TournamentJournal_antwerp2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_silver",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver.fbbd6039bb7c426a2bc94260fef724a7afa41686.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver_large.fbc32111a4101f2c88d44df70bbd005c671fd010.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 13
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5395
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_antwerp2022_gold",
+        "defindex": 4828,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_antwerp2022_Gold",
+        "item_description": "#CSGO_TournamentJournal_antwerp2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_gold",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold.4e42cefcb36534f913f9fecdcfb10dd2632be50a.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold_large.903526b76658c80bf954bee326a24999e5b3c057.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 13
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5395
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_antwerp2022_crystal",
+        "defindex": 4829,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_antwerp2022_Crystal",
+        "item_description": "#CSGO_TournamentJournal_antwerp2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_crystal",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal.4f8bbc057bddd674969549fedf89ce6df6e34a9f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal_large.621b3bb82b76d1b61523b715222fd12ddcc68ccd.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 13
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 5395
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_antwerp2022_pack",
+        "defindex": 4830,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_antwerp2022_pack",
+        "item_description": "#CSGO_TournamentPass_antwerp2022_pack_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_pack",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_pack.8275d589d582bb3c525951c098a8020fcbd4e7fd.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_pack_large.cc1894fc1fafb6b159346764f92e5b6b0ff9e2c8.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_antwerp2022_charge",
+        "defindex": 4831,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_antwerp2022_charge",
+        "item_description": "#CSGO_TournamentPass_antwerp2022_charge_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/pgl_pickem_2022_pass_charge",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_charge.d6ea82480149ddbea247c4617e5175b684177eed.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_antwerp2022_legends",
+        "defindex": 4832,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_antwerp2022_legends",
+        "item_description": "#CSGO_crate_sticker_pack_antwerp2022_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends.739658b85d1bf64fa382df956e4b06ee03517c8f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends_large.dab77e71d69ef32c80ecc110c2b48b52d729bb9b.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 341
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_antwerp2022_challengers",
+        "defindex": 4833,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_antwerp2022_challengers",
+        "item_description": "#CSGO_crate_sticker_pack_antwerp2022_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers.2a8bbe701212a71f6aafa66eefe4e5882d466d29.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers_large.68fda6920297b5fc358b9ae7e1be15eb14856763.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 342
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_antwerp2022_contenders",
+        "defindex": 4834,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_antwerp2022_contenders",
+        "item_description": "#CSGO_crate_sticker_pack_antwerp2022_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders.342f7fd1f5e1bdcd84ab88004c738b1123cfb11c.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders_large.caee8196d7fa287bd983fc68a73b34ab7aa47afa.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 343
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_inferno",
+        "defindex": 4835,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_inferno",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_inferno",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 344
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_mirage",
+        "defindex": 4836,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_mirage",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_mirage",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 345
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_dust2",
+        "defindex": 4837,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_dust2",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_dust2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 346
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_overpass",
+        "defindex": 4838,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_overpass",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_overpass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 347
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_ancient",
+        "defindex": 4839,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_ancient",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_ancient",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 348
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_nuke",
+        "defindex": 4840,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_nuke",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_nuke",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 349
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_antwerp2022_promo_de_vertigo",
+        "defindex": 4841,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_antwerp2022_promo_de_vertigo",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_antwerp2022_promo_de_vertigo",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo.b6852a54ab50c53059d8d7a90998e500682d30be.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 350
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_antwerp2022_group_legends",
+        "defindex": 4842,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_legends",
+        "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends.04ab14e8417a24ae0b925d8064d95929c0c6b303.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends_large.549867e3132b82913a217c14ac8987ba6b0a3c19.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 351
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_antwerp2022_group_challengers",
+        "defindex": 4843,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_challengers",
+        "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers.fa18c4d5778dde2971aee30f10b4f07860169353.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers_large.510dcd1bf2bbe3c2760b6f400a88d636eeabdfa0.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 352
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_antwerp2022_group_contenders",
+        "defindex": 4844,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_contenders",
+        "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders.64006c195eddc72a3a3d102cbcb6c053255be548.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders_large.9f48d39252f2258b6db18c7fab853e9970ce61ea.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 353
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_antwerp2022_group_champions",
+        "defindex": 4845,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_antwerp2022_group_champions",
+        "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_champions_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions.9e31289a366c986eb93653cdd9e8a9926ee0655f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions_large.ef902587114b22a5de30a6cdc694717b445f3ab7.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 19
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 354
+          }
+        ]
       },
       {
         "name": "studded_bloodhound_gloves",
