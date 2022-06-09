@@ -444,7 +444,7 @@
       {
         "id": 39,
         "name": "item_flask",
-        "cost": 110,
+        "cost": 100,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
