@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.78277f58e6a997801034129bc37e8fa326cadb89.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.637f42650604ef5c2e52b407e09955aa40f21b11.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -9939,6 +9939,31 @@
         "tool": {
           "type": "decoder_ring",
           "restriction": "crate_community_30",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "community_31 Key",
+        "defindex": 1392,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_31",
+        "item_description": "#CSGO_crate_key_community_31_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_31",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_31.52815f7f63fa935a0bdec2533215f75b05f6748a.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "restriction": "crate_community_31",
           "usage_capabilities": {
             "decodable": true,
             "usable_out_of_game": true
@@ -37181,6 +37206,39 @@
         ]
       },
       {
+        "name": "crate_community_31",
+        "defindex": 4846,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_community_31",
+        "item_description": "#CSGO_crate_community_31_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_community_31",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_31.440b43f4ad3fcfe344ce63b5d8cf59cd8034ba1a.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true,
+          "can_delete": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "restriction": "crate_community_31",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 355
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -50110,6 +50168,29 @@
           "weapon_mp7",
           "weapon_ak47",
           "weapon_mp9"
+        ]
+      },
+      {
+        "item_set": "set_community_31",
+        "name": "#CSGO_set_community_31",
+        "items": [
+          "weapon_famas",
+          "weapon_galilar",
+          "weapon_m4a1",
+          "weapon_mac10",
+          "weapon_negev",
+          "weapon_ump45",
+          "weapon_glock",
+          "weapon_revolver",
+          "weapon_m249",
+          "weapon_sg556",
+          "weapon_p90",
+          "weapon_elite",
+          "weapon_ak47",
+          "weapon_p250",
+          "weapon_sawedoff",
+          "weapon_usp_silencer",
+          "weapon_awp"
         ]
       },
       {
