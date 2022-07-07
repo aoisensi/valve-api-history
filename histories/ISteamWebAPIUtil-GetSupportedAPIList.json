@@ -4224,6 +4224,12 @@
                 "type": "{enum}",
                 "optional": true,
                 "description": "Return the data for the specified revision."
+              },
+              {
+                "name": "return_apps",
+                "type": "bool",
+                "optional": false,
+                "description": "Return list of apps the items belong to"
               }
             ]
           }
