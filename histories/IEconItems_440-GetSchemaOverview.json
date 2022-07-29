@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.28a94c3c8608098271aca503951457734d947b44.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.ea6dfaf25f5a226bbe181818b65f7666fa3441d3.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10093,6 +10093,237 @@
         "attach_to_rootbone": true,
         "attachment": "unusual",
         "name": "#Attrib_Particle223"
+      },
+      {
+        "system": "unusual_spycrabs_teamcolor_red",
+        "id": 224,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle224"
+      },
+      {
+        "system": "unusual_spycrabs_teamcolor_blue",
+        "id": 225,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle225"
+      },
+      {
+        "system": "unusual_sprinkles_teamcolor_red",
+        "id": 226,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle226"
+      },
+      {
+        "system": "unusual_sprinkles_teamcolor_blue",
+        "id": 227,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle227"
+      },
+      {
+        "system": "unusual_sprinkles_rainbow_parent",
+        "id": 228,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle228"
+      },
+      {
+        "system": "unusual_liquidmagic_green_parent",
+        "id": 229,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle229"
+      },
+      {
+        "system": "unusual_liquidmagic_ocean_parent",
+        "id": 230,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle230"
+      },
+      {
+        "system": "unusual_liquidmagic_pink_parent",
+        "id": 231,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle231"
+      },
+      {
+        "system": "unusual_firework_blue_red_parent",
+        "id": 232,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle232"
+      },
+      {
+        "system": "unusual_firework_green_yellow_parent",
+        "id": 233,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle233"
+      },
+      {
+        "system": "unusual_firework_orange_yellow_parent",
+        "id": 234,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle234"
+      },
+      {
+        "system": "unusual_firework_pgb_parent",
+        "id": 235,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle235"
+      },
+      {
+        "system": "unusual_firework_purple_yellow_parent",
+        "id": 236,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle236"
+      },
+      {
+        "system": "unusual_firework_rainbow_parent",
+        "id": 237,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle237"
+      },
+      {
+        "system": "unusual_firework_wgb_parent",
+        "id": 238,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle238"
+      },
+      {
+        "system": "unusual_lanterns_teamcolor_red",
+        "id": 239,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle239"
+      },
+      {
+        "system": "unusual_lanterns_teamcolor_blue",
+        "id": 240,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle240"
+      },
+      {
+        "system": "unusual_lanterns_green_parent",
+        "id": 241,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle241"
+      },
+      {
+        "system": "unusual_lanterns_yellow_parent",
+        "id": 242,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle242"
+      },
+      {
+        "system": "unusual_coldcosmos_parent",
+        "id": 243,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle243"
+      },
+      {
+        "system": "unusual_helix_parent",
+        "id": 244,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle244"
+      },
+      {
+        "system": "unusual_stardust_teamcolor_red",
+        "id": 245,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle245"
+      },
+      {
+        "system": "unusual_stardust_teamcolor_blue",
+        "id": 246,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle246"
+      },
+      {
+        "system": "unusual_stardust_green_parent",
+        "id": 247,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle247"
+      },
+      {
+        "system": "unusual_stardust_orange_parent",
+        "id": 248,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle248"
+      },
+      {
+        "system": "unusual_stardust_white_parent",
+        "id": 249,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle249"
+      },
+      {
+        "system": "unusual_erupt_alien_parent",
+        "id": 250,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle250"
+      },
+      {
+        "system": "unusual_erupt_daydream_parent",
+        "id": 251,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle251"
+      },
+      {
+        "system": "unusual_erupt_volcan_parent",
+        "id": 252,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle252"
+      },
+      {
+        "system": "unusual_supernova_parent",
+        "id": 253,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle253"
+      },
+      {
+        "system": "unusual_audio_soundwave_green_parent",
+        "id": 254,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle254"
+      },
+      {
+        "system": "unusual_audio_soundwave_orange_parent",
+        "id": 255,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle255"
+      },
+      {
+        "system": "unusual_audio_soundwave_purple_parent",
+        "id": 256,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle256"
       },
       {
         "system": "weapon_unusual_hot",
