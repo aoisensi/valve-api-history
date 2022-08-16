@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.637f42650604ef5c2e52b407e09955aa40f21b11.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.fd527b9074ace82ceb9fb9c4823a53d4768cda94.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -4756,6 +4756,24 @@
         ]
       },
       {
+        "name": "CSGO Ten Year Anniversary Memorabilia",
+        "defindex": 987,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia",
+        "item_description": "#CSGO_CollectibleCoin_CsgoTenYearAnniversaryMemorabilia_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/cupcake_10_year",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year.f6253e97802692c9c8b2d24231eaf8edc2e6c641.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/cupcake_10_year_large.6bf0b2033f0d0e50ded1c491bc1c6330ac5d63f7.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
         "name": "Community Season One Spring 2013",
         "defindex": 1000,
         "item_class": "tool",
@@ -6892,6 +6910,60 @@
         "max_ilevel": 1,
         "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_ember.dabce2e9efd517a5eb4a3060545eb0da017f2733.png",
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_ember_large.b7ffbafb1277a4af2b8a69526edf8e8412456e42.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Tuscan",
+        "defindex": 1085,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenTuscan",
+        "item_description": "#CSGO_Collectible_MapTokenTuscan_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_tuscan",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_tuscan.911731564031ea72e33d8d33c608e415a114fcac.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_tuscan_large.1801ca53aaa4c9ec0fb86a9b03831d033619ea0c.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Prime",
+        "defindex": 1086,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenPrime",
+        "item_description": "#CSGO_Collectible_MapTokenPrime_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_prime",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime.7946d5a0cb957feb7a8a41c96abb8225cdbcf06b.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime_large.f7ee00116837928ccaa654dc202b8dfa13cbf5cf.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": []
+      },
+      {
+        "name": "Map Token Blagai",
+        "defindex": 1087,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_Collectible_MapTokenBlagai",
+        "item_description": "#CSGO_Collectible_MapTokenBlagai_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/maptoken_blagai",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_blagai.e7ebcccf2b0ff6ae1cd3d224d64453ab9467d555.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_blagai_large.5f93fc30a33ed2e228e500f3b210def28fd36654.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
         "attributes": []
@@ -37239,6 +37311,37 @@
         ]
       },
       {
+        "name": "crate_sticker_pack_csgo10_capsule",
+        "defindex": 4847,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_csgo10_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_csgo10_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_csgo10_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_csgo10_capsule.768c19e43ae403fc3ae5789a1e509578895413fa.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_csgo10_capsule_large.305c54333ec83a5adac92ae5ac179d1803921338.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 356
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -46591,6 +46694,37 @@
         ]
       },
       {
+        "name": "coupon - csgo10_sticker_capsule",
+        "defindex": 20188,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_csgo10_sticker_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
         "name": "Daily Payment for Map 'de_cache' starting 2018-10-10",
         "defindex": 30001,
         "item_class": "map_token",
@@ -47794,6 +47928,91 @@
         "item_type_name": "#CSGO_Type_Collectible",
         "item_name": "Daily Payment for Map 'dz_ember' starting 2022-03-01",
         "item_description": "Daily Payment for Map 'dz_ember' starting 2022-03-01",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_tuscan' starting 2022-08-16",
+        "defindex": 30065,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_tuscan' starting 2022-08-16",
+        "item_description": "Daily Payment for Map 'de_tuscan' starting 2022-08-16",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_breach' starting 2022-08-16",
+        "defindex": 30066,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_breach' starting 2022-08-16",
+        "item_description": "Daily Payment for Map 'de_breach' starting 2022-08-16",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_prime' starting 2022-08-16",
+        "defindex": 30067,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_prime' starting 2022-08-16",
+        "item_description": "Daily Payment for Map 'de_prime' starting 2022-08-16",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_blagai' starting 2022-08-16",
+        "defindex": 30068,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_blagai' starting 2022-08-16",
+        "item_description": "Daily Payment for Map 'de_blagai' starting 2022-08-16",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "Daily Payment for Map 'de_anubis' starting 2022-08-16",
+        "defindex": 30069,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "Daily Payment for Map 'de_anubis' starting 2022-08-16",
+        "item_description": "Daily Payment for Map 'de_anubis' starting 2022-08-16",
         "proper_name": false,
         "item_quality": 4,
         "image_inventory": "econ/status_icons/collectible_pin_tactics",
