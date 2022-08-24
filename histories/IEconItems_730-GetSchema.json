@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.fd527b9074ace82ceb9fb9c4823a53d4768cda94.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.283ab71d87b3f7a76bc68117bf1a271262c1360d.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -6944,8 +6944,8 @@
         "image_inventory": "econ/status_icons/maptoken_prime",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime.7946d5a0cb957feb7a8a41c96abb8225cdbcf06b.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime_large.f7ee00116837928ccaa654dc202b8dfa13cbf5cf.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime.14e50a8839349aafec74b7df3a02be712f5a2fc8.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_prime_large.625e9c1b7d90d6bc7af3f3ca910fa66923ea9dbe.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
         "attributes": []
@@ -37342,6 +37342,68 @@
         ]
       },
       {
+        "name": "crate_musickit_initiators_capsule",
+        "defindex": 4848,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_musickit_initiators_capsule",
+        "item_description": "#CSGO_crate_musickit_initiators_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_musickit_initiators_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_capsule.ec8f699c27cca77b7c1caa837d05f8b4d52a3ef6.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 357
+          }
+        ]
+      },
+      {
+        "name": "crate_musickit_initiators_stattrak_capsule",
+        "defindex": 4849,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_musickit_initiators_stattrak_capsule",
+        "item_description": "#CSGO_crate_musickit_initiators_stattrak_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.d20d2c4030e8c41199e11cec8617f70f1c6f36b0.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 358
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -46699,6 +46761,68 @@
         "item_class": "supply_crate",
         "item_type_name": "#CSGO_Type_WeaponCase",
         "item_name": "#coupon_csgo10_sticker_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - initiators_musickit_capsule",
+        "defindex": 20189,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_initiators_musickit_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - initiators_stattrak_musickit_capsule",
+        "defindex": 20190,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_initiators_stattrak_musickit_capsule",
         "item_description": "#coupon_desc",
         "proper_name": false,
         "item_quality": 4,
