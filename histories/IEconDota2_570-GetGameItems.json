@@ -2124,7 +2124,7 @@
       {
         "id": 177,
         "name": "item_recipe_soul_ring",
-        "cost": 245,
+        "cost": 400,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -2132,7 +2132,7 @@
       {
         "id": 178,
         "name": "item_soul_ring",
-        "cost": 700,
+        "cost": 855,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
