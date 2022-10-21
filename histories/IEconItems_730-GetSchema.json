@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.0e14f7035185d54a459d6f41dc1894e87cf41751.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.59e32f71429b900899b8f3e463f8b4478dac85f1.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -4772,6 +4772,102 @@
         "craft_class": "collectable",
         "craft_material_type": "tool",
         "attributes": []
+      },
+      {
+        "name": "PGL Rio 2022 CS:GO Champion",
+        "defindex": 988,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Rio2022_Champion",
+        "item_description": "#CSGO_CollectibleCoin_Rio2022_Champion_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors.22c41059d3f3732ccc503cff103040e020f05e92.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_large.8a7e1053459660c0ba57dcc2dc95c02cbaf4125b.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "PGL Rio 2022 CS:GO Finalist",
+        "defindex": 989,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Rio2022_Finalist",
+        "item_description": "#CSGO_CollectibleCoin_Rio2022_Finalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "PGL Rio 2022 CS:GO Semifinalist",
+        "defindex": 990,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Rio2022_Semifinalist",
+        "item_description": "#CSGO_CollectibleCoin_Rio2022_Semifinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "PGL Rio 2022 CS:GO Quarterfinalist",
+        "defindex": 991,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist",
+        "item_description": "#CSGO_CollectibleCoin_Rio2022_Quarterfinalist_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/trophy_majors_finalists",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists_large.147cd1c9a33d73316a4a676066a1ede9cd1636a9.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
       },
       {
         "name": "Community Season One Spring 2013",
@@ -37404,6 +37500,807 @@
         ]
       },
       {
+        "name": "tournament_pass_rio2022",
+        "defindex": 4850,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_rio2022",
+        "item_description": "#CSGO_TournamentPass_rio2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_pass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass.9efdda295ff5440a793b774fcebb510b2a6f942e.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_large.05a9c387addff7eb89b2d1f6acfd22943fb3c4d4.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_rio2022",
+        "defindex": 4851,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_rio2022",
+        "item_description": "#CSGO_TournamentJournal_rio2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_bronze",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_bronze.cd56e199a51eb0812f578b1f4be0865c85fafdbf.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_bronze_large.11a15e829b19306014e5c020aa5c0a41a1acb564.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 14
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 6085
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_rio2022_silver",
+        "defindex": 4852,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_rio2022_Silver",
+        "item_description": "#CSGO_TournamentJournal_rio2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_silver",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_silver.48fc6677a6c45e958a531b62234c1baaa76fa931.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_silver_large.b0fcc69786742d2a4702229f63461d3a4f7a9264.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 14
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 6085
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_rio2022_gold",
+        "defindex": 4853,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_rio2022_Gold",
+        "item_description": "#CSGO_TournamentJournal_rio2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_gold",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_gold.3edcbeebacfb14f87c31e6b77407f6839f25a632.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_gold_large.78a52a96e06fc2cf5448dc5ebb31dd8e670037c7.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 14
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 6085
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_journal_rio2022_crystal",
+        "defindex": 4854,
+        "item_class": "collectible_item",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "#CSGO_TournamentJournal_rio2022_Crystal",
+        "item_description": "#CSGO_TournamentJournal_rio2022_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_crystal",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_crystal.f657de272491131c37b2d7efdb827c96a164cd61.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_crystal_large.d099d1f9271f0e8178222b8c41ae55bbc8290f5a.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "spraypaint"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "campaign id",
+            "class": "campaign_id",
+            "value": 14
+          },
+          {
+            "name": "sticker slot 0 id",
+            "class": "sticker_slot_id",
+            "value": 6085
+          },
+          {
+            "name": "campaign completion bitfield",
+            "class": "campaign_completion_bitfield",
+            "value": 1
+          },
+          {
+            "name": "operation drops awarded 0",
+            "class": "operation_drops_awarded",
+            "value": 0
+          },
+          {
+            "name": "operation drops awarded 1",
+            "class": "operation_drops_awarded",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_rio2022_pack",
+        "defindex": 4855,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_rio2022_pack",
+        "item_description": "#CSGO_TournamentPass_rio2022_pack_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_pass_pack",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_pack.0213e03f695b320c23a47d52e319985a5a38cd1f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_pack_large.2a52ecc96936c635ae83da165a1c27e43e1ebf5f.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "tournament_pass_rio2022_charge",
+        "defindex": 4856,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Type_Ticket",
+        "item_name": "#CSGO_TournamentPass_rio2022_charge",
+        "item_description": "#CSGO_TournamentPass_rio2022_charge_Desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/iem_pickem_2022_pass_charge",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_charge.d6ea82480149ddbea247c4617e5175b684177eed.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_pass_charge_large.767dda9572f597e6ce4af1f73073e844eb6aae2b.png",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "capabilities": {
+          "usable_gc": true,
+          "usable_out_of_game": true
+        },
+        "tool": {
+          "type": "fantoken",
+          "use_string": "#ConsumeItem"
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_rio2022_legends",
+        "defindex": 4857,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_rio2022_legends",
+        "item_description": "#CSGO_crate_sticker_pack_rio2022_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_legends.4610fb44221bcf673e8025574c7169a23028c858.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_legends_large.e66252daea4793d6091577120df20adf7ac8a5f4.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 359
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_rio2022_challengers",
+        "defindex": 4858,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_rio2022_challengers",
+        "item_description": "#CSGO_crate_sticker_pack_rio2022_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_challengers.b3b052fb2cb4679af2cf5a7faf52dc34ad6cb13d.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_challengers_large.d8279a8e558c7dda21c8fc7deb596dceb9234d3f.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 360
+          }
+        ]
+      },
+      {
+        "name": "crate_sticker_pack_rio2022_contenders",
+        "defindex": 4859,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_rio2022_contenders",
+        "item_description": "#CSGO_crate_sticker_pack_rio2022_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_contenders.82d23ccbd52cc3f7af098016bcb641ad2c75f78f.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_contenders_large.30e9a7f4a33c99fc14f65eef40976bdbe5883c6d.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 361
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_inferno",
+        "defindex": 4860,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_inferno",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_inferno",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_inferno.8436644b919dfd7b507765755a2c6d947aa043bd.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 362
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_mirage",
+        "defindex": 4861,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_mirage",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_mirage",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_mirage.090f18086981df3dbebc2e851f7902f6b9238c3c.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 363
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_dust2",
+        "defindex": 4862,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_dust2",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_dust2",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_dust2.f534f7ac83a32ec4917ec1fa488c5407b056b749.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 364
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_overpass",
+        "defindex": 4863,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_overpass",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_overpass",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_overpass.de315f096687f04c68bd32fdd31ae255d3859ca6.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 365
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_ancient",
+        "defindex": 4864,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_ancient",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_ancient",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_ancient.62851c1371620fd30067840032874561d5b0a5d3.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 366
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_nuke",
+        "defindex": 4865,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_nuke",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_nuke",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_nuke.77e9c0952c566be48bfe22d15fe1f19f4c975a22.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 367
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_rio2022_promo_de_vertigo",
+        "defindex": 4866,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_rio2022_promo_de_vertigo",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_rio2022_promo_de_vertigo",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_rio2022_promo_de_vertigo.7c239e2541a763caf8314bd1630b57fc59b9b18d.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 368
+          },
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_rio2022_group_legends",
+        "defindex": 4867,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_rio2022_group_legends",
+        "item_description": "#CSGO_crate_signature_pack_rio2022_group_legends_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_legends",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends.70b6a4cdc1b8b02ea219c480d585a234eaba3025.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends_large.c0ca78aefda92d5af817d3ae855c095229114d59.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 369
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_rio2022_group_challengers",
+        "defindex": 4868,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_rio2022_group_challengers",
+        "item_description": "#CSGO_crate_signature_pack_rio2022_group_challengers_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers.b896df400c580748c62e861c9c990733711bfb7a.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers_large.0dd13ce0b0feb96cf07641f7fc8401c353bf0dfd.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 370
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_rio2022_group_contenders",
+        "defindex": 4869,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_rio2022_group_contenders",
+        "item_description": "#CSGO_crate_signature_pack_rio2022_group_contenders_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders.c48155dedeeb5b95291200cf7e11befcf9415574.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders_large.1f5f33c6a58838ed836f417699e5383488c3b24e.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 371
+          }
+        ]
+      },
+      {
+        "name": "crate_signature_pack_rio2022_group_champions",
+        "defindex": 4870,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_signature_pack_rio2022_group_champions",
+        "item_description": "#CSGO_crate_signature_pack_rio2022_group_champions_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_champions",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions.4720d954940b91e140c86b4570a95b9ec8a74665.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions_large.c6a421143430dd3067d8c147c635efde45fc39c3.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "tournament event id",
+            "class": "tournament_event_id",
+            "value": 20
+          },
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 372
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -48803,6 +49700,14 @@
         "stored_as_integer": true
       },
       {
+        "name": "scope dot model",
+        "defindex": 77,
+        "attribute_class": "scope_dot_model",
+        "effect_type": "neutral",
+        "hidden": true,
+        "stored_as_integer": false
+      },
+      {
         "name": "elevate quality",
         "defindex": 78,
         "attribute_class": "set_elevated_quality",
@@ -49348,6 +50253,22 @@
         "name": "aimsight pivot forward",
         "defindex": 161,
         "attribute_class": "aimsight_pivot_forward",
+        "effect_type": "neutral",
+        "hidden": true,
+        "stored_as_integer": false
+      },
+      {
+        "name": "radio use sound",
+        "defindex": 163,
+        "attribute_class": "radio_use_sound",
+        "effect_type": "neutral",
+        "hidden": true,
+        "stored_as_integer": false
+      },
+      {
+        "name": "radio use subtitle",
+        "defindex": 164,
+        "attribute_class": "radio_use_subtitle",
         "effect_type": "neutral",
         "hidden": true,
         "stored_as_integer": false
