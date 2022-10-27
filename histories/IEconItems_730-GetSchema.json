@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.59e32f71429b900899b8f3e463f8b4478dac85f1.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.6cde9ca1885629755ebd512244716f324f6a495a.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -38168,8 +38168,8 @@
         "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_legends",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends.70b6a4cdc1b8b02ea219c480d585a234eaba3025.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends_large.c0ca78aefda92d5af817d3ae855c095229114d59.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends.82b4e028f2f707afbb92ddf00c4e06228847aca6.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_legends_large.f0417e0e221b31a20ea389e2ec9c8550b76eb862.png",
         "capabilities": {
           "decodable": true
         },
@@ -38204,8 +38204,8 @@
         "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers.b896df400c580748c62e861c9c990733711bfb7a.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers_large.0dd13ce0b0feb96cf07641f7fc8401c353bf0dfd.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers.256edcf2b241619a0260a07e648545469e7b69db.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers_large.96ab0b9e20577d8af5b85eb559d4203a7bfbb4a4.png",
         "capabilities": {
           "decodable": true
         },
@@ -38240,8 +38240,8 @@
         "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders.c48155dedeeb5b95291200cf7e11befcf9415574.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders_large.1f5f33c6a58838ed836f417699e5383488c3b24e.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders.7b85931f94c27bf3047a506e49efb0b61f50294e.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders_large.7002e49f129b06c21592d53186e822d2268a27d9.png",
         "capabilities": {
           "decodable": true
         },
@@ -38299,6 +38299,56 @@
             "value": 372
           }
         ]
+      },
+      {
+        "name": "storageunit0_rio2022",
+        "defindex": 4871,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_storageunit0_rio2022",
+        "item_description": "#CSGO_storageunit0_rio2022_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/casket_rio2022_0",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/casket_rio2022_0.4ebc70533404b253a925819a91240e5313491f1b.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/casket_rio2022_0_large.1f7758a6fea36f8b8801bcb2c3abe04e6c98d6fb.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": []
+      },
+      {
+        "name": "storageunit1_rio2022",
+        "defindex": 4872,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_storageunit1_rio2022",
+        "item_description": "#CSGO_storageunit1_rio2022_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/casket_rio2022_1",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/casket_rio2022_1.fc1d279e386ce56a3b20c7c449199d89efe58128.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/casket_rio2022_1_large.4884ab38a77eb1047490decdb29164eaffe162eb.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": []
       },
       {
         "name": "studded_bloodhound_gloves",
@@ -49113,6 +49163,23 @@
         "item_type_name": "#CSGO_Type_Collectible",
         "item_name": "One-time Payment for Map 'de_anubis' (USD $150,000.00)",
         "item_description": "One-time Payment for Map 'de_anubis' (USD $150,000.00)",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/status_icons/collectible_pin_tactics",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics.fc68bc1c1ad538846b975d4b118398c9cc4abe79.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.d90bab9e7a60906d447d8b6663a52cde989a7047.png",
+        "craft_class": "collectable",
+        "craft_material_type": "tool"
+      },
+      {
+        "name": "One-time Payment for Map 'de_tuscan' (USD $150,000.00)",
+        "defindex": 30071,
+        "item_class": "map_token",
+        "item_type_name": "#CSGO_Type_Collectible",
+        "item_name": "One-time Payment for Map 'de_tuscan' (USD $150,000.00)",
+        "item_description": "One-time Payment for Map 'de_tuscan' (USD $150,000.00)",
         "proper_name": false,
         "item_quality": 4,
         "image_inventory": "econ/status_icons/collectible_pin_tactics",
