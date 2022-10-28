@@ -318,73 +318,6 @@
         ]
       },
       {
-        "name": "IDOTA2Fantasy_205790",
-        "methods": [
-          {
-            "name": "GetFantasyPlayerStats",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "FantasyLeagueID",
-                "type": "uint32",
-                "optional": false,
-                "description": "The fantasy league ID"
-              },
-              {
-                "name": "StartTime",
-                "type": "uint32",
-                "optional": true,
-                "description": "An optional filter for minimum timestamp"
-              },
-              {
-                "name": "EndTime",
-                "type": "uint32",
-                "optional": true,
-                "description": "An optional filter for maximum timestamp"
-              },
-              {
-                "name": "MatchID",
-                "type": "uint64",
-                "optional": true,
-                "description": "An optional filter for a specific match"
-              },
-              {
-                "name": "SeriesID",
-                "type": "uint32",
-                "optional": true,
-                "description": "An optional filter for a specific series"
-              },
-              {
-                "name": "PlayerAccountID",
-                "type": "uint32",
-                "optional": true,
-                "description": "An optional filter for a specific player"
-              }
-            ]
-          },
-          {
-            "name": "GetPlayerOfficialInfo",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "accountid",
-                "type": "uint32",
-                "optional": false,
-                "description": "The account ID to look up"
-              }
-            ]
-          },
-          {
-            "name": "GetProPlayerList",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": []
-          }
-        ]
-      },
-      {
         "name": "IDOTA2MatchStats_205790",
         "methods": [
           {
@@ -424,12 +357,6 @@
         "name": "IDOTA2Match_205790",
         "methods": [
           {
-            "name": "GetLeagueListing",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": []
-          },
-          {
             "name": "GetLiveLeagueGames",
             "version": 1,
             "httpmethod": "GET",
@@ -445,6 +372,12 @@
                 "type": "uint64",
                 "optional": true,
                 "description": "Only show matches of the specified match id"
+              },
+              {
+                "name": "dpc",
+                "type": "bool",
+                "optional": true,
+                "description": "Only show matches that are part of the DPC"
               }
             ]
           },
@@ -458,6 +391,12 @@
                 "type": "uint64",
                 "optional": false,
                 "description": "Match id"
+              },
+              {
+                "name": "include_persona_names",
+                "type": "bool",
+                "optional": true,
+                "description": "Include persona names as part of the response"
               }
             ]
           },
@@ -631,12 +570,6 @@
               {
                 "name": "match_id",
                 "type": "uint64",
-                "optional": true,
-                "description": ""
-              },
-              {
-                "name": "phase_id",
-                "type": "uint32",
                 "optional": true,
                 "description": ""
               }
@@ -1006,37 +939,6 @@
         "name": "IDOTA2Ticket_205790",
         "methods": [
           {
-            "name": "ClaimBadgeReward",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "BadgeID",
-                "type": "string",
-                "optional": false,
-                "description": "The Badge ID"
-              },
-              {
-                "name": "ValidBadgeType1",
-                "type": "uint32",
-                "optional": false,
-                "description": "Valid Badge Type 1"
-              },
-              {
-                "name": "ValidBadgeType2",
-                "type": "uint32",
-                "optional": false,
-                "description": "Valid Badge Type 2"
-              },
-              {
-                "name": "ValidBadgeType3",
-                "type": "uint32",
-                "optional": false,
-                "description": "Valid Badge Type 3"
-              }
-            ]
-          },
-          {
             "name": "GetSteamIDForBadgeID",
             "version": 1,
             "httpmethod": "GET",
@@ -1096,6 +998,12 @@
                 "type": "uint32",
                 "optional": false,
                 "description": "Valid Badge Type 3"
+              },
+              {
+                "name": "ValidBadgeType4",
+                "type": "uint32",
+                "optional": true,
+                "description": "Valid Badge Type 4"
               }
             ]
           }
@@ -1187,7 +1095,7 @@
                 "name": "eventid",
                 "type": "uint32",
                 "optional": false,
-                "description": "The League ID of the compendium you're looking for."
+                "description": "The Event ID of the event you're looking for."
               },
               {
                 "name": "accountid",
@@ -1236,21 +1144,28 @@
             ]
           },
           {
-            "name": "GetItemIconPath",
+            "name": "GetItemCreators",
             "version": 1,
             "httpmethod": "GET",
             "parameters": [
               {
-                "name": "iconname",
-                "type": "string",
-                "optional": false,
-                "description": "The item icon name to get the CDN path of"
-              },
-              {
-                "name": "icontype",
+                "name": "itemdef",
                 "type": "uint32",
-                "optional": true,
-                "description": "The type of image you want. 0 = normal, 1 = large, 2 = ingame"
+                "optional": false,
+                "description": "The item definition to get creator information for."
+              }
+            ]
+          },
+          {
+            "name": "GetItemWorkshopPublishedFileIDs",
+            "version": 1,
+            "httpmethod": "GET",
+            "parameters": [
+              {
+                "name": "itemdef",
+                "type": "uint32",
+                "optional": false,
+                "description": "The item definition to get published file ids for."
               }
             ]
           },
@@ -1472,12 +1387,6 @@
                 "description": "The Steam ID to fetch items for"
               }
             ]
-          },
-          {
-            "name": "GetSchemaURL",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": []
           },
           {
             "name": "GetStoreMetaData",
@@ -2889,49 +2798,6 @@
             "version": 2,
             "httpmethod": "GET",
             "parameters": []
-          }
-        ]
-      },
-      {
-        "name": "ITFPromos_205790",
-        "methods": [
-          {
-            "name": "GetItemID",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "steamid",
-                "type": "uint64",
-                "optional": false,
-                "description": "The Steam ID to fetch items for"
-              },
-              {
-                "name": "promoid",
-                "type": "uint32",
-                "optional": false,
-                "description": "The promo ID to grant an item for"
-              }
-            ]
-          },
-          {
-            "name": "GrantItem",
-            "version": 1,
-            "httpmethod": "POST",
-            "parameters": [
-              {
-                "name": "steamid",
-                "type": "uint64",
-                "optional": false,
-                "description": "The Steam ID to fetch items for"
-              },
-              {
-                "name": "promoid",
-                "type": "uint32",
-                "optional": false,
-                "description": "The promo ID to grant an item for"
-              }
-            ]
           }
         ]
       },
