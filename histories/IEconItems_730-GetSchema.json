@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.6cde9ca1885629755ebd512244716f324f6a495a.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.fbcf8c847cbb920ad65bc97bb4c129f1c3bfad54.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -37547,9 +37547,6 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_bronze_large.11a15e829b19306014e5c020aa5c0a41a1acb564.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
-        "tool": {
-          "type": "spraypaint"
-        },
         "attributes": [
           {
             "name": "tournament event id",
@@ -37599,9 +37596,6 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_silver_large.b0fcc69786742d2a4702229f63461d3a4f7a9264.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
-        "tool": {
-          "type": "spraypaint"
-        },
         "attributes": [
           {
             "name": "tournament event id",
@@ -37651,9 +37645,6 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_gold_large.78a52a96e06fc2cf5448dc5ebb31dd8e670037c7.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
-        "tool": {
-          "type": "spraypaint"
-        },
         "attributes": [
           {
             "name": "tournament event id",
@@ -37703,9 +37694,6 @@
         "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/iem_pickem_2022_crystal_large.d099d1f9271f0e8178222b8c41ae55bbc8290f5a.png",
         "craft_class": "collectable",
         "craft_material_type": "tool",
-        "tool": {
-          "type": "spraypaint"
-        },
         "attributes": [
           {
             "name": "tournament event id",
@@ -38276,8 +38264,8 @@
         "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_champions",
         "min_ilevel": 1,
         "max_ilevel": 1,
-        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions.4720d954940b91e140c86b4570a95b9ec8a74665.png",
-        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions_large.c6a421143430dd3067d8c147c635efde45fc39c3.png",
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions.64d44365b86e3ad9cc172911e6cb684bf61b67d2.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_rio2022_group_champions_large.f185ec24c25814035a3edaa8bb8f1f343ecfbcf9.png",
         "capabilities": {
           "decodable": true
         },
