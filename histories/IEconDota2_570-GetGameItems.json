@@ -1580,7 +1580,7 @@
       {
         "id": 243,
         "name": "item_recipe_crimson_guard",
-        "cost": 800,
+        "cost": 600,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -1588,7 +1588,7 @@
       {
         "id": 242,
         "name": "item_crimson_guard",
-        "cost": 3600,
+        "cost": 3575,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2236,7 +2236,7 @@
       {
         "id": 184,
         "name": "item_recipe_ancient_janggo",
-        "cost": 550,
+        "cost": 500,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -2244,7 +2244,7 @@
       {
         "id": 185,
         "name": "item_ancient_janggo",
-        "cost": 1700,
+        "cost": 1650,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2260,7 +2260,7 @@
       {
         "id": 931,
         "name": "item_boots_of_bearing",
-        "cost": 4125,
+        "cost": 4075,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
@@ -2348,7 +2348,7 @@
       {
         "id": 230,
         "name": "item_recipe_guardian_greaves",
-        "cost": 1550,
+        "cost": 1450,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 1
@@ -2356,7 +2356,7 @@
       {
         "id": 231,
         "name": "item_guardian_greaves",
-        "cost": 5050,
+        "cost": 4950,
         "secret_shop": 0,
         "side_shop": 0,
         "recipe": 0
