@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.17e8563dcabcaad2a2d43b59407657561f7fa200.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.aaeb19b8fd12fd0dc579ea8946433226b251d988.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -7756,6 +7756,14 @@
         "stored_as_integer": false
       },
       {
+        "name": "is winter case",
+        "defindex": 2068,
+        "attribute_class": null,
+        "effect_type": "value_is_from_lookup_table",
+        "hidden": true,
+        "stored_as_integer": false
+      },
+      {
         "name": "item slot criteria 1",
         "defindex": 3000,
         "attribute_class": "item_slot_criteria",
@@ -10424,6 +10432,62 @@
         "name": "#Attrib_Particle270"
       },
       {
+        "system": "unusual_sheetmusic_gold_parent",
+        "id": 271,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle271"
+      },
+      {
+        "system": "unusual_sheetmusic_green_parent",
+        "id": 272,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle272"
+      },
+      {
+        "system": "unusual_sheetmusic_silver_parent",
+        "id": 273,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle273"
+      },
+      {
+        "system": "unusual_constellation_teamcolor_red",
+        "id": 274,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle274"
+      },
+      {
+        "system": "unusual_constellation_teamcolor_blue",
+        "id": 275,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle275"
+      },
+      {
+        "system": "unusual_constellation_green_parent",
+        "id": 276,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle276"
+      },
+      {
+        "system": "unusual_blood_snow_parent",
+        "id": 277,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle277"
+      },
+      {
+        "system": "unusual_aestheticneons_parent",
+        "id": 278,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle278"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -11110,6 +11174,60 @@
         "id": 3104,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3104"
+      },
+      {
+        "system": "utaunt_storm_parent_g",
+        "id": 3105,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3105"
+      },
+      {
+        "system": "utaunt_storm_parent_k",
+        "id": 3106,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3106"
+      },
+      {
+        "system": "utaunt_storm_parent_o",
+        "id": 3107,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3107"
+      },
+      {
+        "system": "utaunt_festivelights_teamcolor_red",
+        "id": 3108,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3108"
+      },
+      {
+        "system": "utaunt_festivelights_teamcolor_blue",
+        "id": 3109,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3109"
+      },
+      {
+        "system": "utaunt_glow_spirit_parent_cr",
+        "id": 3110,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3110"
+      },
+      {
+        "system": "utaunt_glow_spirit_parent_og",
+        "id": 3111,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3111"
+      },
+      {
+        "system": "utaunt_glow_spirit_parent_pp",
+        "id": 3112,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3112"
+      },
+      {
+        "system": "utaunt_snowflakesaura_parent",
+        "id": 3113,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3113"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
