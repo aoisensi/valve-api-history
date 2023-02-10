@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.912280afab477c77741bf213c265cd94bb869d48.txt",
+    "items_game_url": "https://steamcdn-a.akamaihd.net/apps/730/scripts/items/items_game.c9df4dfb7554c57ddb036e2815c806b22622d9fa.txt",
     "qualities": {
       "normal": 0,
       "genuine": 1,
@@ -10168,6 +10168,31 @@
         "tool": {
           "type": "decoder_ring",
           "restriction": "crate_community_31",
+          "usage_capabilities": {
+            "decodable": true,
+            "usable_out_of_game": true
+          }
+        }
+      },
+      {
+        "name": "community_32 Key",
+        "defindex": 1393,
+        "item_class": "tool",
+        "item_type_name": "#CSGO_Tool_WeaponCase_KeyTag",
+        "item_name": "#CSGO_crate_key_community_32",
+        "item_description": "#CSGO_crate_key_community_32_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/tools/crate_key_community_32",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_32.fa9b42c1eefd4304b2860014584fa42309675505.png",
+        "image_url_large": "",
+        "craft_class": "tool",
+        "craft_material_type": "tool",
+        "tool": {
+          "type": "decoder_ring",
+          "restriction": "crate_community_32",
           "usage_capabilities": {
             "decodable": true,
             "usable_out_of_game": true
@@ -38483,6 +38508,70 @@
         "attributes": []
       },
       {
+        "name": "crate_sticker_pack_community2022_capsule",
+        "defindex": 4879,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_sticker_pack_community2022_capsule",
+        "item_description": "#CSGO_crate_sticker_pack_community2022_capsule_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2022_capsule",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_community2022_capsule.2cc3b170650f4346f3803c968ba652847b46365c.png",
+        "image_url_large": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_community2022_capsule_large.c462fbedae7464f6668c1e2f6060eb7d641172d2.png",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 375
+          }
+        ]
+      },
+      {
+        "name": "crate_community_32",
+        "defindex": 4880,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#CSGO_crate_community_32",
+        "item_description": "#CSGO_crate_community_32_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/weapon_cases/crate_community_32",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_32.2d4bcc3d6832d2b4d1d11a273a4ff4bf55dc63a1.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true,
+          "can_delete": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "restriction": "crate_community_32",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "set supply crate series",
+            "class": "supply_crate_series",
+            "value": 376
+          }
+        ]
+      },
+      {
         "name": "studded_bloodhound_gloves",
         "defindex": 5027,
         "item_class": "wearable_item",
@@ -47990,6 +48079,99 @@
         ]
       },
       {
+        "name": "coupon - community2022_sticker_capsule",
+        "defindex": 20193,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_community2022_sticker_capsule",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/coupon/offer",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/coupon/offer.2833a681e6fed26656302dd5fee013fcaa85d722.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - denzelcurry_01",
+        "defindex": 20194,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_denzelcurry_01",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/denzelcurry_01",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
+        "name": "coupon - denzelcurry_01_stattrak",
+        "defindex": 20195,
+        "item_class": "supply_crate",
+        "item_type_name": "#CSGO_Type_WeaponCase",
+        "item_name": "#coupon_denzelcurry_01_stattrak",
+        "item_description": "#coupon_desc",
+        "proper_name": false,
+        "item_quality": 4,
+        "image_inventory": "econ/music_kits/denzelcurry_01",
+        "min_ilevel": 1,
+        "max_ilevel": 1,
+        "image_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/music_kits/denzelcurry_01.c6308be51b40c63c0addb512fff5d2c9713aceca.png",
+        "image_url_large": "",
+        "capabilities": {
+          "decodable": true
+        },
+        "tool": {
+          "type": "supply_crate",
+          "usage_capabilities": {
+            "usable_out_of_game": true
+          }
+        },
+        "attributes": [
+          {
+            "name": "expiration date",
+            "class": "expiration_date",
+            "value": 60
+          }
+        ]
+      },
+      {
         "name": "Daily Payment for Map 'de_cache' starting 2018-10-10",
         "defindex": 30001,
         "item_class": "map_token",
@@ -51767,6 +51949,29 @@
           "weapon_sawedoff",
           "weapon_usp_silencer",
           "weapon_awp"
+        ]
+      },
+      {
+        "item_set": "set_community_32",
+        "name": "#CSGO_set_community_32",
+        "items": [
+          "weapon_mag7",
+          "weapon_mp9",
+          "weapon_scar20",
+          "weapon_p250",
+          "weapon_mp5sd",
+          "weapon_sg556",
+          "weapon_tec9",
+          "weapon_m4a1_silencer",
+          "weapon_glock",
+          "weapon_mac10",
+          "weapon_revolver",
+          "weapon_p90",
+          "weapon_ump45",
+          "weapon_hkp2000",
+          "weapon_awp",
+          "weapon_ak47",
+          "weapon_m4a1"
         ]
       },
       {
