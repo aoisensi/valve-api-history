@@ -1,5 +1,6 @@
 import os
 import urllib.request
+import urllib.error
 import time
 import json
 import sys
@@ -26,7 +27,7 @@ for path in paths:
     print(path)
     try:
         url = f'https://api.steampowered.com/{path}?key={key}'
-        req = urllib.request.Request(url, headers = headers)
+        req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as resp:
             data = json.dumps(json.load(resp), indent=2)
             sp = path.split('/')
@@ -34,6 +35,12 @@ for path in paths:
             with open(name, mode='w') as f:
                 f.write(data)
             print(name)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            print('Not Found')
+        else:
+            print('Error:', e)
+            sys.exit(1)
     except Exception as e:
         print('Error:', e)
         sys.exit(1)
