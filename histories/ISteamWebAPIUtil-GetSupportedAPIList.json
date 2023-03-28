@@ -1810,32 +1810,6 @@
             ]
           },
           {
-            "name": "GetSDRConfig",
-            "version": 2,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "appid",
-                "type": "uint32",
-                "optional": false,
-                "description": "AppID of game"
-              }
-            ]
-          },
-          {
-            "name": "GetSDRConfigLegacy",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": [
-              {
-                "name": "appid",
-                "type": "uint32",
-                "optional": false,
-                "description": "AppID of game"
-              }
-            ]
-          },
-          {
             "name": "GetServersAtAddress",
             "version": 1,
             "httpmethod": "GET",
