@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.8d08fb778dffc302933e3bf13d88ff5b6484cb6b.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.3c8f4d3fb7cf6d84ade668b71bdfa0db3e905d64.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10488,6 +10488,104 @@
         "name": "#Attrib_Particle278"
       },
       {
+        "system": "unusual_hardcarry_teamcolor_red",
+        "id": 279,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle279"
+      },
+      {
+        "system": "unusual_hardcarry_teamcolor_blue",
+        "id": 280,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle280"
+      },
+      {
+        "system": "unusual_jellyfish_teamcolor_red",
+        "id": 281,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle281"
+      },
+      {
+        "system": "unusual_jellyfish_teamcolor_blue",
+        "id": 282,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle282"
+      },
+      {
+        "system": "unusual_jellyfish_green_parent",
+        "id": 283,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle283"
+      },
+      {
+        "system": "unusual_jellyfish_purple_parent",
+        "id": 284,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle284"
+      },
+      {
+        "system": "unusual_shootingstar_green_parent",
+        "id": 285,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle285"
+      },
+      {
+        "system": "unusual_shootingstar_purple_parent",
+        "id": 286,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle286"
+      },
+      {
+        "system": "unusual_shootingstar_orange_parent",
+        "id": 287,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle287"
+      },
+      {
+        "system": "unusual_sakura_smokebomb",
+        "id": 288,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle288"
+      },
+      {
+        "system": "unusual_australian_riches",
+        "id": 289,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle289"
+      },
+      {
+        "system": "unusual_buble_parent",
+        "id": 290,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle290"
+      },
+      {
+        "system": "unusual_fireflies",
+        "id": 291,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle291"
+      },
+      {
+        "system": "unusual_mountainhalo_parent",
+        "id": 292,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle292"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -11228,6 +11326,66 @@
         "id": 3113,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3113"
+      },
+      {
+        "system": "utaunt_sun_sand_rays_parent",
+        "id": 3114,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3114"
+      },
+      {
+        "system": "utaunt_undersea_teamcolor_red",
+        "id": 3115,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3115"
+      },
+      {
+        "system": "utaunt_undersea_teamcolor_blue",
+        "id": 3116,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3116"
+      },
+      {
+        "system": "utaunt_lavalamp_green_parent",
+        "id": 3117,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3117"
+      },
+      {
+        "system": "utaunt_lavalamp_purple_parent",
+        "id": 3118,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3118"
+      },
+      {
+        "system": "utaunt_lavalamp_yellow_parent",
+        "id": 3119,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3119"
+      },
+      {
+        "system": "utaunt_fish_parent",
+        "id": 3120,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3120"
+      },
+      {
+        "system": "utaunt_rainbow_teamcolor_red",
+        "id": 3121,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3121"
+      },
+      {
+        "system": "utaunt_rainbow_teamcolor_blue",
+        "id": 3122,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3122"
+      },
+      {
+        "system": "utaunt_wild_meadows_parent",
+        "id": 3123,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3123"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
