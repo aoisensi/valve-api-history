@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.85b97907f11c7bb937f33eab13de600ad14a0276.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.166a1981971057902f3898f14ff1ac7ce66333e7.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10586,6 +10586,118 @@
         "name": "#Attrib_Particle292"
       },
       {
+        "system": "unusual_risingstar_green_parent",
+        "id": 293,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle293"
+      },
+      {
+        "system": "unusual_risingstar_purple_parent",
+        "id": 294,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle294"
+      },
+      {
+        "system": "unusual_sapper_teamcolor_red",
+        "id": 295,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle295"
+      },
+      {
+        "system": "unusual_sapper_teamcolor_blue",
+        "id": 296,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle296"
+      },
+      {
+        "system": "unusual_devilish_teamcolor_red",
+        "id": 297,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle297"
+      },
+      {
+        "system": "unusual_devilish_teamcolor_blue",
+        "id": 298,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle298"
+      },
+      {
+        "system": "unusual_devilish_green_parent",
+        "id": 299,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle299"
+      },
+      {
+        "system": "unusual_devilish_purple_parent",
+        "id": 300,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle300"
+      },
+      {
+        "system": "unusual_sixthsense_teamcolor_red",
+        "id": 301,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle301"
+      },
+      {
+        "system": "unusual_sixthsense_teamcolor_blue",
+        "id": 302,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle302"
+      },
+      {
+        "system": "unusual_sixthsense_pink_parent",
+        "id": 303,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle303"
+      },
+      {
+        "system": "unusual_skullhead_parent",
+        "id": 304,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle304"
+      },
+      {
+        "system": "unusual_spiderweb_parent",
+        "id": 305,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle305"
+      },
+      {
+        "system": "unusual_deepsmoke_green_parent",
+        "id": 306,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle306"
+      },
+      {
+        "system": "unusual_deepsmoke_purple_parent",
+        "id": 307,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle307"
+      },
+      {
+        "system": "unusual_deepsmoke_orange_parent",
+        "id": 308,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle308"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -11386,6 +11498,48 @@
         "id": 3123,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3123"
+      },
+      {
+        "system": "utaunt_krakenmouth_green_parent",
+        "id": 3124,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3124"
+      },
+      {
+        "system": "utaunt_krakenmouth_purple_parent",
+        "id": 3125,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3125"
+      },
+      {
+        "system": "utaunt_leaftaunt_parent",
+        "id": 3126,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3126"
+      },
+      {
+        "system": "utaunt_graveparty_parent",
+        "id": 3127,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3127"
+      },
+      {
+        "system": "utaunt_spellsplash_parent",
+        "id": 3128,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3128"
+      },
+      {
+        "system": "utaunt_cremation_purple_parent",
+        "id": 3129,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3129"
+      },
+      {
+        "system": "utaunt_cremation_black_parent",
+        "id": 3130,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3130"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
