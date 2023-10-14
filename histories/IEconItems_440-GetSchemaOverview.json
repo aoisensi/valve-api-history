@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.37737786cea575678e0e6d7c4e967b92869afe82.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.a9920cfe4849697eaf6af9b2f96d1ded3355265e.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10677,21 +10677,21 @@
         "name": "#Attrib_Particle305"
       },
       {
-        "system": "unusual_deepsmoke_green_parent",
+        "system": "unusual_deepsmoke_parent_g",
         "id": 306,
         "attach_to_rootbone": true,
         "attachment": "unusual",
         "name": "#Attrib_Particle306"
       },
       {
-        "system": "unusual_deepsmoke_purple_parent",
+        "system": "unusual_deepsmoke_parent_p",
         "id": 307,
         "attach_to_rootbone": true,
         "attachment": "unusual",
         "name": "#Attrib_Particle307"
       },
       {
-        "system": "unusual_deepsmoke_orange_parent",
+        "system": "unusual_deepsmoke_parent_o",
         "id": 308,
         "attach_to_rootbone": true,
         "attachment": "unusual",
