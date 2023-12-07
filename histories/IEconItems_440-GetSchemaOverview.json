@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.78020b99462c4e67cb267251581b60e745cd4201.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.683a24e40801ecfb8c67248152e5929724f3873e.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10698,6 +10698,125 @@
         "name": "#Attrib_Particle308"
       },
       {
+        "system": "unusual_icearrow_teamcolor_red",
+        "id": 309,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle309"
+      },
+      {
+        "system": "unusual_icearrow_teamcolor_blue",
+        "id": 310,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle310"
+      },
+      {
+        "system": "unusual_goldarrow_parent",
+        "id": 311,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle311"
+      },
+      {
+        "system": "unusual_aestheticsigns_teamcolor_red",
+        "id": 312,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle312"
+      },
+      {
+        "system": "unusual_aestheticsigns_teamcolor_blue",
+        "id": 313,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle313"
+      },
+      {
+        "system": "unusual_aestheticsigns_mannco_parent",
+        "id": 314,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle314"
+      },
+      {
+        "system": "unusual_frosty_flavours_teamcolor_red",
+        "id": 315,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle315"
+      },
+      {
+        "system": "unusual_frosty_flavours_teamcolor_blue",
+        "id": 316,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle316"
+      },
+      {
+        "system": "unusual_frosty_mint_glow_parent",
+        "id": 317,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle317"
+      },
+      {
+        "system": "unusual_northstar_teamcolor_red",
+        "id": 318,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle318"
+      },
+      {
+        "system": "unusual_northstar_teamcolor_blue",
+        "id": 319,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle319"
+      },
+      {
+        "system": "unusual_northstar_parent_purple",
+        "id": 320,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle320"
+      },
+      {
+        "system": "unusual_orbitingstar_parent",
+        "id": 321,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle321"
+      },
+      {
+        "system": "unusual_firefly_teamcolor_red",
+        "id": 322,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle322"
+      },
+      {
+        "system": "unusual_firefly_teamcolor_blue",
+        "id": 323,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle323"
+      },
+      {
+        "system": "unusual_firefly_purple_parent",
+        "id": 324,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle324"
+      },
+      {
+        "system": "unusual_firefly_green_parent",
+        "id": 325,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle325"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -11540,6 +11659,90 @@
         "id": 3130,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3130"
+      },
+      {
+        "system": "utaunt_snowfall_parent",
+        "id": 3131,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3131"
+      },
+      {
+        "system": "utaunt_constellations_teamcolor_red",
+        "id": 3132,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3132"
+      },
+      {
+        "system": "utaunt_constellations_teamcolor_blue",
+        "id": 3133,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3133"
+      },
+      {
+        "system": "utaunt_constellations_purple_parent",
+        "id": 3134,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3134"
+      },
+      {
+        "system": "utaunt_constellations_pink_parent",
+        "id": 3135,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3135"
+      },
+      {
+        "system": "utaunt_wispyworks_orangegreen_parent",
+        "id": 3136,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3136"
+      },
+      {
+        "system": "utaunt_wispyworks_purpleblue_parent",
+        "id": 3137,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3137"
+      },
+      {
+        "system": "utaunt_wispyworks_yellowpurple_parent",
+        "id": 3138,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3138"
+      },
+      {
+        "system": "utaunt_innerblizzard_teamcolor_red",
+        "id": 3139,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3139"
+      },
+      {
+        "system": "utaunt_innerblizzard_teamcolor_blue",
+        "id": 3140,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3140"
+      },
+      {
+        "system": "utaunt_innerblizzard_purple_parent",
+        "id": 3141,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3141"
+      },
+      {
+        "system": "utaunt_spotlight_parent",
+        "id": 3142,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3142"
+      },
+      {
+        "system": "utaunt_pedalfly_teamcolor_red",
+        "id": 3143,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3143"
+      },
+      {
+        "system": "utaunt_pedalfly_teamcolor_blue",
+        "id": 3144,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3144"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
