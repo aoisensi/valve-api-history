@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.8d4ff8a424a4fa555e82f8c8b887a7e16f37c288.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d24e63331e51b71c92f4d4afb96c733e730970ed.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -10817,12 +10817,6 @@
         "attach_to_rootbone": true,
         "attachment": "unusual",
         "name": "#Attrib_Particle325"
-      },
-      {
-        "system": "empty",
-        "id": 326,
-        "attach_to_rootbone": false,
-        "name": "#Attrib_Particle326"
       },
       {
         "system": "unusual_corrodedknight_teamcolor_red",
