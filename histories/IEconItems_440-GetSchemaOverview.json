@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.1f67e0270ff34ee281a3d26bf15d6e610e12db43.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.c16735ee980c96061c56f1a53ea1095514ede9a2.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -7766,6 +7766,116 @@
         "stored_as_integer": false
       },
       {
+        "name": "freaky fair kritz potion",
+        "defindex": 2069,
+        "attribute_class": "freaky_fair_kritz_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Kritz_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair uber potion",
+        "defindex": 2070,
+        "attribute_class": "freaky_fair_uber_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Uber_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair giant potion",
+        "defindex": 2071,
+        "attribute_class": "freaky_fair_giant_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Giant_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair buster potion",
+        "defindex": 2072,
+        "attribute_class": "freaky_fair_buster_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Buster_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair healing potion",
+        "defindex": 2073,
+        "attribute_class": "freaky_fair_healing_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Healing_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair ghost potion",
+        "defindex": 2074,
+        "attribute_class": "freaky_fair_ghost_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Ghost_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair ammo potion",
+        "defindex": 2075,
+        "attribute_class": "freaky_fair_ammo_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Ammo_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair rtd potion",
+        "defindex": 2076,
+        "attribute_class": "freaky_fair_rtd_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Rtd_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair relentless potion",
+        "defindex": 2077,
+        "attribute_class": "freaky_fair_relentless_potion",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Relentless_Potion",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair extra attrib1",
+        "defindex": 2078,
+        "attribute_class": "freaky_fair_extra_attrib1",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Extra_Attrib1",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
+        "name": "freaky fair extra attrib2",
+        "defindex": 2079,
+        "attribute_class": "freaky_fair_extra_attrib2",
+        "description_string": "#TF_hwn2024_Freaky_Fair_Extra_Attrib2",
+        "description_format": "value_is_additive",
+        "effect_type": "positive",
+        "hidden": false,
+        "stored_as_integer": false
+      },
+      {
         "name": "item slot criteria 1",
         "defindex": 3000,
         "attribute_class": "item_slot_criteria",
@@ -10981,6 +11091,104 @@
         "name": "#Attrib_Particle349"
       },
       {
+        "system": "unusual_spectral_fire_parent",
+        "id": 350,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle350"
+      },
+      {
+        "system": "unusual_galactic_fire_parent",
+        "id": 351,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle351"
+      },
+      {
+        "system": "unusual_frank_green_parent",
+        "id": 352,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle352"
+      },
+      {
+        "system": "unusual_frank_purple_parent",
+        "id": 353,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle353"
+      },
+      {
+        "system": "unusual_frank_yellow_parent",
+        "id": 354,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle354"
+      },
+      {
+        "system": "unusual_skullsmoke_green_parent",
+        "id": 355,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle355"
+      },
+      {
+        "system": "unusual_skullsmoke_purple_parent",
+        "id": 356,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle356"
+      },
+      {
+        "system": "unusual_pigeons_green_parent",
+        "id": 357,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle357"
+      },
+      {
+        "system": "unusual_pigeons_purple_parent",
+        "id": 358,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle358"
+      },
+      {
+        "system": "unusual_pigeons_white_parent",
+        "id": 359,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle359"
+      },
+      {
+        "system": "unusual_stove_teamcolor_red",
+        "id": 360,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle360"
+      },
+      {
+        "system": "unusual_stove_teamcolor_blue",
+        "id": 361,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle361"
+      },
+      {
+        "system": "unusual_electricfire_teamcolor_red",
+        "id": 362,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle362"
+      },
+      {
+        "system": "unusual_electricfire_teamcolor_blue",
+        "id": 363,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle363"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -12081,6 +12289,72 @@
         "id": 3173,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3173"
+      },
+      {
+        "system": "utaunt_poweraura_teamcolor_red",
+        "id": 3174,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3174"
+      },
+      {
+        "system": "utaunt_poweraura_teamcolor_blue",
+        "id": 3175,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3175"
+      },
+      {
+        "system": "utaunt_poweraura_green_parent",
+        "id": 3176,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3176"
+      },
+      {
+        "system": "utaunt_poweraura_purple_parent",
+        "id": 3177,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3177"
+      },
+      {
+        "system": "utaunt_poweraura_yellow_parent",
+        "id": 3178,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3178"
+      },
+      {
+        "system": "utaunt_mysticfusion_parent",
+        "id": 3179,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3179"
+      },
+      {
+        "system": "utaunt_confetti_gy_parent",
+        "id": 3180,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3180"
+      },
+      {
+        "system": "utaunt_confetti_pp_parent",
+        "id": 3181,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3181"
+      },
+      {
+        "system": "utaunt_confetti_yp_parent",
+        "id": 3182,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3182"
+      },
+      {
+        "system": "utaunt_heavyrain_parent",
+        "id": 3183,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3183"
+      },
+      {
+        "system": "utaunt_field_parent",
+        "id": 3184,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3184"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
