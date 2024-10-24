@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.c964e68735f043af8751b9d528e41625af89f444.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.fc8afd47283f0d2fd684e7157a0b3c94c57c94e2.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -29334,7 +29334,7 @@
         "min_ilevel": 1,
         "max_ilevel": 100,
         "image_url": "http://media.steampowered.com/apps/440/icons/scout_prep_shirt.906456dfdb9b9c54543dcb716bb1952efb3fdde9.png",
-        "image_url_large": "http://media.steampowered.com/apps/440/icons/scout_prep_shirt_large.c56d08ff23b3f30249a18501fef79d221f034cd0.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/scout_prep_shirt_large.05be377767ca55c152b815f1d9774759c875a90c.png",
         "drop_type": "none",
         "craft_class": "hat",
         "craft_material_type": "hat",
