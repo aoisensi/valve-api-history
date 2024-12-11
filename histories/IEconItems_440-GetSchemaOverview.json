@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.87e400fcb2fcb6c997d2e8506eb969ac47893599.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.307ec739c8a78beafd7cb17c7508a80f29a5f3d1.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -11189,6 +11189,69 @@
         "name": "#Attrib_Particle363"
       },
       {
+        "system": "unusual_sizzling_parent",
+        "id": 364,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle364"
+      },
+      {
+        "system": "unusual_icrown_teamcolor_red",
+        "id": 365,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle365"
+      },
+      {
+        "system": "unusual_icrown_teamcolor_blue",
+        "id": 366,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle366"
+      },
+      {
+        "system": "unusual_icrown_parent_purple",
+        "id": 367,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle367"
+      },
+      {
+        "system": "unusual_timeghosts_parent",
+        "id": 368,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle368"
+      },
+      {
+        "system": "unusual_aurora_parent",
+        "id": 369,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle369"
+      },
+      {
+        "system": "unusual_bokehsparkle_parent",
+        "id": 370,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle370"
+      },
+      {
+        "system": "unusual_playful_purple_parent",
+        "id": 371,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle371"
+      },
+      {
+        "system": "unusual_playful_yellow_parent",
+        "id": 372,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle372"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -12355,6 +12418,60 @@
         "id": 3184,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3184"
+      },
+      {
+        "system": "utaunt_whitesmissmas_parent",
+        "id": 3185,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3185"
+      },
+      {
+        "system": "utaunt_busysnow_teamcolor_red",
+        "id": 3186,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3186"
+      },
+      {
+        "system": "utaunt_busysnow_teamcolor_blue",
+        "id": 3187,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3187"
+      },
+      {
+        "system": "utaunt_busysnow_parent_p",
+        "id": 3188,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3188"
+      },
+      {
+        "system": "utaunt_busysnow_parent_g",
+        "id": 3189,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3189"
+      },
+      {
+        "system": "utaunt_roses_teamcolor_red",
+        "id": 3190,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3190"
+      },
+      {
+        "system": "utaunt_roses_teamcolor_blue",
+        "id": 3191,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3191"
+      },
+      {
+        "system": "utaunt_roses_gold_parent",
+        "id": 3192,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3192"
+      },
+      {
+        "system": "utaunt_tangledlights_parent",
+        "id": 3193,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3193"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
