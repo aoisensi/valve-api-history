@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.9dbd65502a54d05c6dae18656408bbeae51b24b4.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.5e1eb7cd17724cfd00e839ced5f7f510a9cc28ad.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -45648,7 +45648,7 @@
         "item_slot": "melee",
         "model_player": "models/weapons/c_models/c_boxing_gloves/c_boxing_gloves_xmas.mdl",
         "item_quality": 6,
-        "image_inventory": "backpack/weapons/c_models/c_boxing_gloves\\c_boxing_gloves_xmas",
+        "image_inventory": "backpack/weapons/c_models/c_boxing_gloves/c_boxing_gloves_xmas",
         "min_ilevel": 1,
         "max_ilevel": 99,
         "image_url": "http://media.steampowered.com/apps/440/icons/c_boxing_gloves_xmas.0dbdc11afb9da14d86bc2a7cd946fc4a2e46a23c.png",
