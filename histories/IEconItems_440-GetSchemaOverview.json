@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.381273f3bbc5846888cced1b11e4057297af8852.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.e6038bcd0eefa7891fab20be1bbb0f855ac6c3f2.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -11252,6 +11252,69 @@
         "name": "#Attrib_Particle372"
       },
       {
+        "system": "unusual_drunk_parent",
+        "id": 373,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle373"
+      },
+      {
+        "system": "unusual_excalibur_teamcolor_red",
+        "id": 374,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle374"
+      },
+      {
+        "system": "unusual_excalibur_teamcolor_blue",
+        "id": 375,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle375"
+      },
+      {
+        "system": "unusual_excalibur_parent_purple",
+        "id": 376,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle376"
+      },
+      {
+        "system": "unusual_uber_teamcolor_red",
+        "id": 377,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle377"
+      },
+      {
+        "system": "unusual_uber_teamcolor_blue",
+        "id": 378,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle378"
+      },
+      {
+        "system": "unusual_uber_gold_parent",
+        "id": 379,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle379"
+      },
+      {
+        "system": "unusual_orbitingbullet_parent",
+        "id": 380,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle380"
+      },
+      {
+        "system": "unusual_typhoon_parent",
+        "id": 381,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle381"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -12472,6 +12535,60 @@
         "id": 3193,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3193"
+      },
+      {
+        "system": "utaunt_seamine_teamcolor_red",
+        "id": 3194,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3194"
+      },
+      {
+        "system": "utaunt_seamine_teamcolor_blue",
+        "id": 3195,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3195"
+      },
+      {
+        "system": "utaunt_iconicoutline_teamcolor_red",
+        "id": 3196,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3196"
+      },
+      {
+        "system": "utaunt_iconicoutline_teamcolor_blue",
+        "id": 3197,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3197"
+      },
+      {
+        "system": "utaunt_iconicoutline_pink_parent",
+        "id": 3198,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3198"
+      },
+      {
+        "system": "utaunt_oceanreef_parent",
+        "id": 3199,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3199"
+      },
+      {
+        "system": "utaunt_signalinterference_parent",
+        "id": 3200,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3200"
+      },
+      {
+        "system": "utaunt_waterwave_parent",
+        "id": 3201,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3201"
+      },
+      {
+        "system": "utaunt_sharkfin2_parent",
+        "id": 3202,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3202"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
