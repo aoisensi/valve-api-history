@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f21733b41261d6ff7d6663a078184e4011f867ca.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.ceca02cecdb504a8f1ca49008e5d0cb2b6adaa4d.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -11315,6 +11315,83 @@
         "name": "#Attrib_Particle381"
       },
       {
+        "system": "unusual_ocean_swirl_teamcolor_red",
+        "id": 382,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle382"
+      },
+      {
+        "system": "unusual_ocean_swirl_teamcolor_blue",
+        "id": 383,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle383"
+      },
+      {
+        "system": "unusual_ocean_swirl_green_parent",
+        "id": 384,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle384"
+      },
+      {
+        "system": "unusual_candle_teamcolor_red",
+        "id": 385,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle385"
+      },
+      {
+        "system": "unusual_candle_teamcolor_blue",
+        "id": 386,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle386"
+      },
+      {
+        "system": "unusual_deadlyaroma_teamcolor_red",
+        "id": 387,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle387"
+      },
+      {
+        "system": "unusual_deadlyaroma_teamcolor_blue",
+        "id": 388,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle388"
+      },
+      {
+        "system": "unusual_deadlyaroma_green_parent",
+        "id": 389,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle389"
+      },
+      {
+        "system": "unusual_conductor_teamc_teamcolor_red",
+        "id": 390,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle390"
+      },
+      {
+        "system": "unusual_conductor_teamc_teamcolor_blue",
+        "id": 391,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle391"
+      },
+      {
+        "system": "unusual_sandy_parent",
+        "id": 392,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle392"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -12589,6 +12666,66 @@
         "id": 3202,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3202"
+      },
+      {
+        "system": "utaunt_phantasam_green_parent",
+        "id": 3203,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3203"
+      },
+      {
+        "system": "utaunt_phantasam_grey_parent",
+        "id": 3204,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3204"
+      },
+      {
+        "system": "utaunt_phantasam_purple_parent",
+        "id": 3205,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3205"
+      },
+      {
+        "system": "utaunt_multicurse_teamcolor_red",
+        "id": 3206,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3206"
+      },
+      {
+        "system": "utaunt_multicurse_teamcolor_blue",
+        "id": 3207,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3207"
+      },
+      {
+        "system": "utaunt_voidcrawlers_parent",
+        "id": 3208,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3208"
+      },
+      {
+        "system": "utaunt_tarpit_dinos_parent",
+        "id": 3209,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3209"
+      },
+      {
+        "system": "utaunt_tarpit_people_parent",
+        "id": 3210,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3210"
+      },
+      {
+        "system": "utaunt_morbed_teamcolor_red",
+        "id": 3211,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3211"
+      },
+      {
+        "system": "utaunt_morbed_teamcolor_blue",
+        "id": 3212,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3212"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",
