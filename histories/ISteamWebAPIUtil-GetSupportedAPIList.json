@@ -1220,18 +1220,6 @@
         "name": "ISteamApps",
         "methods": [
           {
-            "name": "GetAppList",
-            "version": 1,
-            "httpmethod": "GET",
-            "parameters": []
-          },
-          {
-            "name": "GetAppList",
-            "version": 2,
-            "httpmethod": "GET",
-            "parameters": []
-          },
-          {
             "name": "GetSDRConfig",
             "version": 1,
             "httpmethod": "GET",
