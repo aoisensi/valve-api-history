@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d20617571953493812a1d1eb3bb67ccc0eb77264.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.60e3e32fc0cac71b7b1f6d334a37ba6bc89c69f4.txt",
     "qualities": {
       "Normal": 0,
       "rarity1": 1,
@@ -11392,6 +11392,97 @@
         "name": "#Attrib_Particle392"
       },
       {
+        "system": "unusual_ombre_parent_purple",
+        "id": 393,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle393"
+      },
+      {
+        "system": "unusual_ombre_parent_teal",
+        "id": 394,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle394"
+      },
+      {
+        "system": "unusual_ombre_parent_spectrum",
+        "id": 395,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle395"
+      },
+      {
+        "system": "unusual_calmsnowfall_parent",
+        "id": 396,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle396"
+      },
+      {
+        "system": "unusual_team_recognition_teamcolor_red",
+        "id": 397,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle397"
+      },
+      {
+        "system": "unusual_team_recognition_teamcolor_blue",
+        "id": 398,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle398"
+      },
+      {
+        "system": "unusual_classicfortress_teamcolor_red",
+        "id": 399,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle399"
+      },
+      {
+        "system": "unusual_classicfortress_teamcolor_blue",
+        "id": 400,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle400"
+      },
+      {
+        "system": "unusual_classicfortress_tflogo_parent",
+        "id": 401,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle401"
+      },
+      {
+        "system": "unusual_growing_flake_parent_white",
+        "id": 402,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle402"
+      },
+      {
+        "system": "unusual_growing_flake_parent_purple",
+        "id": 403,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle403"
+      },
+      {
+        "system": "unusual_growing_flake_parent_twilight",
+        "id": 404,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle404"
+      },
+      {
+        "system": "unusual_cryogenic_parent",
+        "id": 405,
+        "attach_to_rootbone": true,
+        "attachment": "unusual",
+        "name": "#Attrib_Particle405"
+      },
+      {
         "system": "weapon_unusual_hot",
         "id": 701,
         "attach_to_rootbone": false,
@@ -12726,6 +12817,72 @@
         "id": 3212,
         "attach_to_rootbone": false,
         "name": "#Attrib_Particle3212"
+      },
+      {
+        "system": "utaunt_2fort_teamc_teamcolor_red",
+        "id": 3213,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3213"
+      },
+      {
+        "system": "utaunt_2fort_teamc_teamcolor_blue",
+        "id": 3214,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3214"
+      },
+      {
+        "system": "utaunt_burningdesire_green_parent",
+        "id": 3215,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3215"
+      },
+      {
+        "system": "utaunt_burningdesire_orange_parent",
+        "id": 3216,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3216"
+      },
+      {
+        "system": "utaunt_spacecoated_2colored_parent_pb",
+        "id": 3217,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3217"
+      },
+      {
+        "system": "utaunt_spacecoated_2colored_parent_pg",
+        "id": 3218,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3218"
+      },
+      {
+        "system": "utaunt_aurora25_teamcolor_red",
+        "id": 3219,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3219"
+      },
+      {
+        "system": "utaunt_aurora25_teamcolor_blue",
+        "id": 3220,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3220"
+      },
+      {
+        "system": "utaunt_aurora25_parent_purple",
+        "id": 3221,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3221"
+      },
+      {
+        "system": "utaunt_chillingmist_parent",
+        "id": 3222,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3222"
+      },
+      {
+        "system": "utaunt_80smalfunction_parent",
+        "id": 3223,
+        "attach_to_rootbone": false,
+        "name": "#Attrib_Particle3223"
       },
       {
         "system": "killstreak_eyeglow_4_teamcolor_red",

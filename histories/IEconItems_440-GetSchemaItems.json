@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.d20617571953493812a1d1eb3bb67ccc0eb77264.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.60e3e32fc0cac71b7b1f6d334a37ba6bc89c69f4.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -3161,8 +3161,8 @@
         "image_inventory": "backpack/player/items/spy/derby_hat",
         "min_ilevel": 1,
         "max_ilevel": 100,
-        "image_url": "http://media.steampowered.com/apps/440/icons/derby_hat.e344b6808c7c752c7cac4dca37212875f841d76f.png",
-        "image_url_large": "http://media.steampowered.com/apps/440/icons/derby_hat_large.0ff739bf2d0a7e82e1c86af8792dcfe1a20faa77.png",
+        "image_url": "http://media.steampowered.com/apps/440/icons/derby_hat.c57860e3ccc71713f9f52e352c1399c18dec7f57.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/derby_hat_large.74dd9feff55378ceb6dc39cbcc9e5419bdc1ff6f.png",
         "drop_type": "drop",
         "craft_class": "hat",
         "craft_material_type": "hat",
@@ -11903,6 +11903,11 @@
           "can_killstreakify": true,
           "can_consume": true
         },
+        "styles": [
+          {
+            "name": "#TF_UnknownStyle"
+          }
+        ],
         "used_by_classes": [
           "Scout"
         ],
@@ -17323,6 +17328,11 @@
           {
             "name": "hype on damage",
             "class": "hype_on_damage",
+            "value": 1
+          },
+          {
+            "name": "disable fancy class select anim",
+            "class": "disable_fancy_class_select_anim",
             "value": 1
           }
         ]
