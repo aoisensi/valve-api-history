@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.3e355b9b4787f9de3b33eee5b954077590bbe741.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.b540a8922bdfae3affb236a6598d3f5bc18c8f9d.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -12497,8 +12497,8 @@
         "image_inventory": "backpack/workshop/weapons/c_models/c_fists_of_steel/c_fists_of_steel",
         "min_ilevel": 10,
         "max_ilevel": 10,
-        "image_url": "http://media.steampowered.com/apps/440/icons/c_fists_of_steel.98d8a1c2efc78f3f63c3e6b90c32448c32df5d61.png",
-        "image_url_large": "http://media.steampowered.com/apps/440/icons/c_fists_of_steel_large.f74457582244ea5c7f07299229d1aaf0f9a986d0.png",
+        "image_url": "http://media.steampowered.com/apps/440/icons/c_fists_of_steel.09644dbfadc8712ab8e84c31ca3aa9d5074b2480.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/c_fists_of_steel_large.6045ce422974c73f16b96ffdb9ed2ed998907e00.png",
         "craft_class": "weapon",
         "craft_material_type": "weapon",
         "capabilities": {
