@@ -4871,6 +4871,12 @@
                 "name": "page_size",
                 "type": "int32",
                 "optional": true
+              },
+              {
+                "name": "share_token",
+                "type": "string",
+                "optional": false,
+                "description": "The wishlist share token. Determines what items are visible and the effective filters."
               }
             ]
           },
