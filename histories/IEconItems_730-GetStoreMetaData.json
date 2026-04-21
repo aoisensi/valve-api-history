@@ -58,12 +58,12 @@
         "url_history_param_name": "h",
         "all_element": {
           "id": 991457757,
-          "localized_text": ""
+          "localized_text": "#Store_Filter_All"
         },
         "elements": [
           {
             "name": "all",
-            "localized_text": "",
+            "localized_text": "#Store_Filter_All",
             "id": 991457757
           }
         ],
@@ -75,12 +75,12 @@
         "url_history_param_name": "t",
         "all_element": {
           "id": 991457757,
-          "localized_text": ""
+          "localized_text": "#Store_Filter_All"
         },
         "elements": [
           {
             "name": "all",
-            "localized_text": "",
+            "localized_text": "#Store_Filter_All",
             "id": 991457757
           }
         ],
@@ -92,12 +92,12 @@
         "url_history_param_name": "r",
         "all_element": {
           "id": 991457757,
-          "localized_text": ""
+          "localized_text": "#Store_Filter_All"
         },
         "elements": [
           {
             "name": "all",
-            "localized_text": "",
+            "localized_text": "#Store_Filter_All",
             "id": 991457757
           }
         ],
@@ -112,7 +112,7 @@
           "data_type": "date",
           "sort_field": "released",
           "sort_reversed": false,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_ReleaseNewest"
         },
         {
           "id": 1935804930,
@@ -120,7 +120,7 @@
           "data_type": "date",
           "sort_field": "released",
           "sort_reversed": true,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_ReleaseOldest"
         },
         {
           "id": 2836310360,
@@ -128,7 +128,7 @@
           "data_type": "int",
           "sort_field": "price",
           "sort_reversed": false,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_PriceHighest"
         },
         {
           "id": 1937844400,
@@ -136,7 +136,7 @@
           "data_type": "int",
           "sort_field": "price",
           "sort_reversed": true,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_PriceLowest"
         },
         {
           "id": 395556772,
@@ -144,7 +144,7 @@
           "data_type": "string",
           "sort_field": "name",
           "sort_reversed": true,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_Alphabetical"
         },
         {
           "id": 3737656384,
@@ -152,7 +152,7 @@
           "data_type": "string",
           "sort_field": "hero",
           "sort_reversed": true,
-          "localized_text": ""
+          "localized_text": "#Store_Sorter_HeroName"
         }
       ],
       "sorting_prefabs": [
@@ -189,28 +189,28 @@
           "id": 1468829639,
           "name": "heroes",
           "type": "filter",
-          "label_text": "",
+          "label_text": "#Store_FilterType_Heroes",
           "url_history_param_name": "h"
         },
         {
           "id": 1939313376,
           "name": "item_types",
           "type": "filter",
-          "label_text": "",
+          "label_text": "#Store_FilterType_ItemTypes",
           "url_history_param_name": "t"
         },
         {
           "id": 109301539,
           "name": "rarities",
           "type": "filter",
-          "label_text": "",
+          "label_text": "#Store_FilterType_Rarities",
           "url_history_param_name": "r"
         },
         {
           "id": 3419035254,
           "name": "sortby",
           "type": "sorting_prefab",
-          "label_text": "",
+          "label_text": "#Store_SortBy",
           "url_history_param_name": "s"
         }
       ],
