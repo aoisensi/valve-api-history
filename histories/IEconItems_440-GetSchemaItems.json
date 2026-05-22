@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.1d62f5c09ba2e14f6d4a4abc24dd8bb5921aa4b0.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.53676c4c3a63aeeaf2f4886dde2ed815ecf981a5.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -44867,7 +44867,7 @@
         "min_ilevel": 1,
         "max_ilevel": 100,
         "image_url": "http://media.steampowered.com/apps/440/icons/hwn_spellbook_complete.57f64ae848a23c8232a2f7dcd89bd6c298a47597.png",
-        "image_url_large": "http://media.steampowered.com/apps/440/icons/hwn_spellbook_complete_large.da01f0b58f4b411288c36739f48bd322126cf6dd.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/hwn_spellbook_complete_large.091cca0d87df8b95374f898da7b80f5b67f3b088.png",
         "capabilities": {
           "nameable": true,
           "can_gift_wrap": true,
@@ -45869,6 +45869,17 @@
           "can_killstreakify": true,
           "can_consume": true
         },
+        "styles": [
+          {
+            "name": "#TF_style_bullets"
+          },
+          {
+            "name": "#TF_style_nobullets",
+            "additional_hidden_bodygroups": {
+              "bullets": 1
+            }
+          }
+        ],
         "used_by_classes": [
           "Heavy"
         ],
