@@ -1,7 +1,7 @@
 {
   "result": {
     "status": 1,
-    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.53676c4c3a63aeeaf2f4886dde2ed815ecf981a5.txt",
+    "items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.6d9a3aa3538639241ae00e76fe357d0c0cd93a21.txt",
     "items": [
       {
         "name": "TF_WEAPON_BAT",
@@ -10664,8 +10664,8 @@
         "image_inventory": "backpack/player/items/all_class/voodoojuju_hat",
         "min_ilevel": 31,
         "max_ilevel": 31,
-        "image_url": "http://media.steampowered.com/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png",
-        "image_url_large": "http://media.steampowered.com/apps/440/icons/voodoojuju_hat_large.be40609e0ed4017c2c9013b19376cf75afe8831a.png",
+        "image_url": "http://media.steampowered.com/apps/440/icons/voodoojuju_hat.fb64e44ddc108918d00e26452168652450b905b6.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/voodoojuju_hat_large.7013b3669f9c3226d1a2111fef588a313b330822.png",
         "drop_type": "drop",
         "craft_class": "",
         "craft_material_type": "",
@@ -12620,6 +12620,11 @@
             "name": "kill eater kill type",
             "class": "kill_eater_kill_type",
             "value": 64
+          },
+          {
+            "name": "attach particle effect static",
+            "class": "set_attached_particle_static",
+            "value": 406
           }
         ]
       },
@@ -12678,6 +12683,11 @@
             "name": "counts as assister is some kind of pet this update is going to be awesome",
             "class": "counts_as_assister",
             "value": 1
+          },
+          {
+            "name": "attach particle effect static",
+            "class": "set_attached_particle_static",
+            "value": 406
           }
         ]
       },
