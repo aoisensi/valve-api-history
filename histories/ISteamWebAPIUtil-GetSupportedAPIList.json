@@ -2379,6 +2379,35 @@
             ]
           },
           {
+            "name": "FriendsQuery",
+            "version": 1,
+            "httpmethod": "GET",
+            "description": "Perform a query on a specific server by FakeIP",
+            "parameters": [
+              {
+                "name": "key",
+                "type": "string",
+                "optional": false,
+                "description": "Access key"
+              },
+              {
+                "name": "servers",
+                "type": "{message}",
+                "optional": false
+              },
+              {
+                "name": "friends",
+                "type": "uint64",
+                "optional": false
+              },
+              {
+                "name": "app_id",
+                "type": "uint32",
+                "optional": false
+              }
+            ]
+          },
+          {
             "name": "QueryByFakeIP",
             "version": 1,
             "httpmethod": "GET",
