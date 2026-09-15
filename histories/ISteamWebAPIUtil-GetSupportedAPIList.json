@@ -3809,6 +3809,12 @@
                 "description": "Admin tool is doing a query, return hidden items"
               },
               {
+                "name": "excluded_apps_with_content_descriptors",
+                "type": "{enum}",
+                "optional": false,
+                "description": "(Optional) Filter out items for apps that have these content descriptors."
+              },
+              {
                 "name": "totalonly",
                 "type": "bool",
                 "optional": false,
@@ -4043,6 +4049,12 @@
                 "type": "bool",
                 "optional": false,
                 "description": "Admin tool is doing a query, return hidden items"
+              },
+              {
+                "name": "excluded_apps_with_content_descriptors",
+                "type": "{enum}",
+                "optional": false,
+                "description": "(Optional) Filter out items for apps that have these content descriptors."
               },
               {
                 "name": "totalonly",
